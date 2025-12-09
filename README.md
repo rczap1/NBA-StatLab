@@ -275,6 +275,19 @@ K_MID_SEASON = 20.0     # Jan-Mar
 K_LATE_SEASON = 15.0    # Apr-Jun
 ```
 
+### 🤖 AI-Assisted Development
+
+This project leveraged AI assistance throughout the development process to enhance productivity and code quality. AI tools were used for:
+
+- **Code Architecture & Design**: Structuring modular services and establishing design patterns
+- **Algorithm Implementation**: Refining the Elo rating system and statistical calculations
+- **Code Optimization**: Improving performance through efficient data processing and caching strategies
+- **Documentation**: Generating comprehensive docstrings and technical explanations
+- **Debugging & Problem-Solving**: Identifying and resolving complex issues in API integration and data processing
+- **Best Practices**: Ensuring adherence to Python conventions and modern software engineering principles
+
+While AI provided valuable guidance and accelerated development, all strategic decisions, domain expertise, and final implementations were human-driven. The AI served as an intelligent coding assistant, enabling faster iteration and higher quality output.
+
 ---
 
 ## 📚 Project Applications
