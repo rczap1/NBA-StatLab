@@ -1,0 +1,15 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# NBA Data
+nba-api>=1.4.0
+
+# CLI Interface
+typer>=0.9.0
+rich>=13.7.0
+
+# Timezone
+pytz>=2023.3
