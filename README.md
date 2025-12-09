@@ -396,7 +396,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Contact:**
 - Email: rodrigofcarvalho421@gmail.com
-- LinkedIn: [linkedin.com/in/odrigo-fernandes-carvalho](https://linkedin.com/in/rodrigo-fernandes-carvalho)
+- LinkedIn: [linkedin.com/in/rodrigo-fernandes-carvalho](https://linkedin.com/in/rodrigo-fernandes-carvalho)
 - GitHub: [rczap1](https://github.com/rczap1)
 
 ---
