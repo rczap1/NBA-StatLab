@@ -2,30 +2,30 @@
   "Nikola Jokic": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 34.66425429871115,
+    "score": 34.422981547877804,
     "team": "DEN",
-    "ppg": 29.11
+    "ppg": 29.32
   },
   "Shai Gilgeous-Alexander": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 34.1320117438461,
+    "score": 33.953332732641485,
     "team": "OKC",
-    "ppg": 32.839999999999996
+    "ppg": 32.769999999999996
   },
   "Luka Doncic": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 33.40116861199034,
+    "score": 33.231318258258256,
     "team": "LAL",
-    "ppg": 33.03
+    "ppg": 32.96
   },
   "Giannis Antetokounmpo": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 33.377752712933834,
+    "score": 32.33974800517078,
     "team": "MIL",
-    "ppg": 30.75
+    "ppg": 29.349999999999994
   },
   "Victor Wembanyama": {
     "tier": "SUPERSTAR",
@@ -37,16 +37,16 @@
   "Donovan Mitchell": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 29.63159636554278,
+    "score": 29.655928009938307,
     "team": "CLE",
-    "ppg": 28.619999999999997
+    "ppg": 28.549999999999997
   },
   "Cade Cunningham": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 29.460230703158686,
+    "score": 29.066701147622314,
     "team": "DET",
-    "ppg": 27.990000000000002
+    "ppg": 27.08
   },
   "Jayson Tatum": {
     "tier": "SUPERSTAR",
@@ -55,33 +55,33 @@
     "team": "BOS",
     "ppg": 26.799999999999997
   },
-  "Jalen Brunson": {
-    "tier": "SUPERSTAR",
-    "elo_impact": -60,
-    "score": 28.650820106429038,
-    "team": "NYK",
-    "ppg": 28.17
-  },
   "Tyrese Maxey": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 28.60697765013802,
+    "score": 28.624093027325838,
     "team": "PHI",
-    "ppg": 30.08
-  },
-  "Austin Reaves": {
-    "tier": "SUPERSTAR",
-    "elo_impact": -60,
-    "score": 28.600795130864586,
-    "team": "LAL",
-    "ppg": 26.009999999999998
+    "ppg": 29.939999999999998
   },
   "Anthony Edwards": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 28.4731084968817,
+    "score": 28.56095922932057,
     "team": "MIN",
     "ppg": 28.369999999999997
+  },
+  "Jaylen Brown": {
+    "tier": "SUPERSTAR",
+    "elo_impact": -60,
+    "score": 28.32982315039714,
+    "team": "BOS",
+    "ppg": 27.03
+  },
+  "Jalen Brunson": {
+    "tier": "SUPERSTAR",
+    "elo_impact": -60,
+    "score": 28.303505778490837,
+    "team": "NYK",
+    "ppg": 27.4
   },
   "Stephen Curry": {
     "tier": "SUPERSTAR",
@@ -90,54 +90,54 @@
     "team": "GSW",
     "ppg": 26.879999999999995
   },
-  "Jaylen Brown": {
+  "Austin Reaves": {
     "tier": "SUPERSTAR",
     "elo_impact": -60,
-    "score": 27.888464988208135,
-    "team": "BOS",
-    "ppg": 26.82
-  },
-  "James Harden": {
-    "tier": "SUPERSTAR",
-    "elo_impact": -60,
-    "score": 27.8099409778182,
-    "team": "LAC",
-    "ppg": 26.229999999999997
+    "score": 28.14014268805826,
+    "team": "LAL",
+    "ppg": 25.939999999999998
   },
   "Karl-Anthony Towns": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 26.976485421873083,
+    "tier": "SUPERSTAR",
+    "elo_impact": -60,
+    "score": 27.587468653636396,
     "team": "NYK",
-    "ppg": 22.509999999999998
+    "ppg": 23.069999999999997
   },
   "Kevin Durant": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.914148875967165,
+    "score": 27.524527727410536,
     "team": "HOU",
-    "ppg": 25.2
+    "ppg": 25.69
   },
-  "Tyler Herro": {
+  "James Harden": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.893348908256744,
-    "team": "MIA",
-    "ppg": 25.159999999999997
-  },
-  "Devin Booker": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 26.42198255635675,
-    "team": "PHX",
-    "ppg": 25.669999999999998
+    "score": 27.245954762988923,
+    "team": "LAC",
+    "ppg": 25.599999999999998
   },
   "Jamal Murray": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.38003512285635,
+    "score": 27.092593771192522,
     "team": "DEN",
-    "ppg": 23.219999999999995
+    "ppg": 23.919999999999998
+  },
+  "Jalen Johnson": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 26.76590538712462,
+    "team": "ATL",
+    "ppg": 22.049999999999997
+  },
+  "Alperen Sengun": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 26.67919618548431,
+    "team": "HOU",
+    "ppg": 21.900000000000002
   },
   "Damian Lillard": {
     "tier": "STAR",
@@ -149,51 +149,37 @@
   "Norman Powell": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.319730030043935,
+    "score": 26.270395128565873,
     "team": "MIA",
-    "ppg": 23.83
+    "ppg": 23.9
   },
-  "Alperen Sengun": {
+  "Deni Avdija": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.05075125948783,
-    "team": "HOU",
-    "ppg": 21.13
+    "score": 26.224023212636293,
+    "team": "POR",
+    "ppg": 23.13
+  },
+  "Devin Booker": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 26.18347785996296,
+    "team": "PHX",
+    "ppg": 25.18
   },
   "Kawhi Leonard": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 26.02607900404527,
+    "score": 26.157394614855868,
     "team": "LAC",
     "ppg": 24.229999999999997
-  },
-  "Jalen Johnson": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 25.93432614065866,
-    "team": "ATL",
-    "ppg": 20.999999999999996
   },
   "De'Aaron Fox": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 25.91929204531208,
+    "score": 25.883926616810463,
     "team": "SAS",
-    "ppg": 23.849999999999998
-  },
-  "Jalen Duren": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 25.881851087232555,
-    "team": "DET",
-    "ppg": 17.189999999999998
-  },
-  "Julius Randle": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 25.840619686507562,
-    "team": "MIN",
-    "ppg": 21.78
+    "ppg": 24.06
   },
   "Kyrie Irving": {
     "tier": "STAR",
@@ -202,47 +188,47 @@
     "team": "DAL",
     "ppg": 24.7
   },
-  "Deni Avdija": {
+  "Julius Randle": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 25.761115563170595,
-    "team": "POR",
-    "ppg": 22.919999999999998
+    "score": 25.76801233298377,
+    "team": "MIN",
+    "ppg": 21.639999999999997
   },
-  "Coby White": {
+  "Michael Porter Jr.": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 25.60380473562886,
-    "team": "CHI",
-    "ppg": 23.059999999999995
+    "score": 25.748097428168816,
+    "team": "BKN",
+    "ppg": 23.52
   },
-  "Joel Embiid": {
+  "Tyler Herro": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 25.35601044231189,
-    "team": "PHI",
-    "ppg": 20.93
+    "score": 25.717154227733563,
+    "team": "MIA",
+    "ppg": 23.83
   },
-  "Lauri Markkanen": {
+  "Jalen Duren": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 25.229906330903482,
-    "team": "UTA",
-    "ppg": 25.65
-  },
-  "Paolo Banchero": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 25.086788151167845,
-    "team": "ORL",
-    "ppg": 22.959999999999997
+    "score": 25.448723876308165,
+    "team": "DET",
+    "ppg": 16.7
   },
   "Franz Wagner": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 24.962022045377406,
+    "score": 25.12086172134485,
     "team": "ORL",
-    "ppg": 23.22
+    "ppg": 23.15
+  },
+  "Pascal Siakam": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 25.070909950483166,
+    "team": "IND",
+    "ppg": 23.209999999999997
   },
   "Zion Williamson": {
     "tier": "STAR",
@@ -251,6 +237,20 @@
     "team": "NOP",
     "ppg": 22.85
   },
+  "Chet Holmgren": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 24.887066805346382,
+    "team": "OKC",
+    "ppg": 17.52
+  },
+  "Anthony Davis": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 24.880994436654486,
+    "team": "DAL",
+    "ppg": 21.13
+  },
   "Jalen Green": {
     "tier": "STAR",
     "elo_impact": -40,
@@ -258,33 +258,33 @@
     "team": "PHX",
     "ppg": 17.15
   },
+  "Lauri Markkanen": {
+    "tier": "STAR",
+    "elo_impact": -40,
+    "score": 24.840636798256426,
+    "team": "UTA",
+    "ppg": 25.02
+  },
   "Jimmy Butler III": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 24.79274333961112,
+    "score": 24.53380889168939,
     "team": "GSW",
-    "ppg": 19.39
+    "ppg": 18.9
   },
-  "Pascal Siakam": {
+  "Jalen Williams": {
     "tier": "STAR",
     "elo_impact": -40,
-    "score": 24.702319757933893,
-    "team": "IND",
-    "ppg": 22.789999999999996
-  },
-  "Chet Holmgren": {
-    "tier": "STAR",
-    "elo_impact": -40,
-    "score": 24.51154099047635,
+    "score": 24.48253064324938,
     "team": "OKC",
-    "ppg": 17.24
+    "ppg": 18.939999999999998
   },
-  "Michael Porter Jr.": {
+  "Paolo Banchero": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 24.433396799854194,
-    "team": "BKN",
-    "ppg": 22.47
+    "score": 24.340062881634832,
+    "team": "ORL",
+    "ppg": 22.049999999999997
   },
   "Aaron Gordon": {
     "tier": "STARTER",
@@ -293,47 +293,61 @@
     "team": "DEN",
     "ppg": 17.57
   },
-  "Scottie Barnes": {
+  "Evan Mobley": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 24.317655216086962,
-    "team": "TOR",
-    "ppg": 19.79
+    "score": 24.322848886917008,
+    "team": "CLE",
+    "ppg": 18.779999999999998
   },
-  "Anthony Davis": {
+  "Kristaps Porzingis": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 24.271115175262047,
-    "team": "DAL",
-    "ppg": 20.919999999999998
+    "score": 24.271114035191417,
+    "team": "ATL",
+    "ppg": 19.29
   },
   "LaMelo Ball": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 24.139337446198027,
+    "score": 24.12271968987003,
     "team": "CHA",
-    "ppg": 21.209999999999997
+    "ppg": 21.139999999999997
+  },
+  "Scottie Barnes": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 24.09501970422688,
+    "team": "TOR",
+    "ppg": 19.79
+  },
+  "Bam Adebayo": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 23.964633360863793,
+    "team": "MIA",
+    "ppg": 18.87
+  },
+  "Kevin Porter Jr.": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 23.941777686791813,
+    "team": "MIL",
+    "ppg": 18.35
+  },
+  "Coby White": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 23.94124808067534,
+    "team": "CHI",
+    "ppg": 21.59
   },
   "Josh Giddey": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 24.11586217877104,
+    "score": 23.835697422356677,
     "team": "CHI",
-    "ppg": 18.73
-  },
-  "Evan Mobley": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 24.045793106058067,
-    "team": "CLE",
-    "ppg": 18.639999999999997
-  },
-  "Brandon Ingram": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 23.860305873499136,
-    "team": "TOR",
-    "ppg": 21.99
+    "ppg": 18.59
   },
   "Tyrese Haliburton": {
     "tier": "STARTER",
@@ -342,26 +356,12 @@
     "team": "IND",
     "ppg": 18.6
   },
-  "Kristaps Porzingis": {
+  "Joel Embiid": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 23.769775642080205,
-    "team": "ATL",
-    "ppg": 18.939999999999998
-  },
-  "Bam Adebayo": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 23.764787410581917,
-    "team": "MIA",
-    "ppg": 18.66
-  },
-  "Shaedon Sharpe": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 23.487125408604463,
-    "team": "POR",
-    "ppg": 20.81
+    "score": 23.702262590858073,
+    "team": "PHI",
+    "ppg": 19.88
   },
   "Walker Kessler": {
     "tier": "STARTER",
@@ -370,40 +370,26 @@
     "team": "UTA",
     "ppg": 13.41
   },
-  "LeBron James": {
+  "Brandon Ingram": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 23.132161064752957,
-    "team": "LAL",
-    "ppg": 18.869999999999997
-  },
-  "Keyonte George": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 23.029068875105096,
-    "team": "UTA",
-    "ppg": 21.7
-  },
-  "Ivica Zubac": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 22.913686884984934,
-    "team": "LAC",
-    "ppg": 16.52
+    "score": 22.95040491285723,
+    "team": "TOR",
+    "ppg": 21.499999999999996
   },
   "Amen Thompson": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.815658379388125,
+    "score": 22.91071181050627,
     "team": "HOU",
     "ppg": 16.409999999999997
   },
-  "Bennedict Mathurin": {
+  "Shaedon Sharpe": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.717930482016392,
-    "team": "IND",
-    "ppg": 20.369999999999997
+    "score": 22.81099782987817,
+    "team": "POR",
+    "ppg": 20.32
   },
   "RJ Barrett": {
     "tier": "STARTER",
@@ -412,19 +398,26 @@
     "team": "TOR",
     "ppg": 19.909999999999997
   },
-  "Miles Bridges": {
+  "Ivica Zubac": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.539979125562475,
-    "team": "CHA",
-    "ppg": 21.769999999999996
+    "score": 22.700119365729467,
+    "team": "LAC",
+    "ppg": 16.169999999999998
   },
   "OG Anunoby": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.52620848204717,
+    "score": 22.654909261975913,
     "team": "NYK",
-    "ppg": 16.46
+    "ppg": 16.529999999999998
+  },
+  "Bennedict Mathurin": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 22.557485638186584,
+    "team": "IND",
+    "ppg": 19.88
   },
   "Ja Morant": {
     "tier": "STARTER",
@@ -443,9 +436,16 @@
   "Desmond Bane": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.49180677104508,
+    "score": 22.38443472670986,
     "team": "ORL",
     "ppg": 18.57
+  },
+  "Derrick White": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 22.382805824656067,
+    "team": "BOS",
+    "ppg": 17.169999999999998
   },
   "Isaiah Hartenstein": {
     "tier": "STARTER",
@@ -454,6 +454,20 @@
     "team": "OKC",
     "ppg": 11.899999999999999
   },
+  "Mikal Bridges": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 22.35488040062023,
+    "team": "NYK",
+    "ppg": 16.83
+  },
+  "Zach Edey": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 22.328714760948934,
+    "team": "MEM",
+    "ppg": 12.28
+  },
   "Trae Young": {
     "tier": "STARTER",
     "elo_impact": -25,
@@ -461,26 +475,33 @@
     "team": "ATL",
     "ppg": 19.72
   },
-  "Jaren Jackson Jr.": {
+  "LeBron James": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.184316553446365,
-    "team": "MEM",
-    "ppg": 19.68
+    "score": 22.17659169347027,
+    "team": "LAL",
+    "ppg": 18.59
   },
-  "Ryan Rollins": {
+  "Dillon Brooks": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.139917277407186,
-    "team": "MIL",
-    "ppg": 17.9
+    "score": 22.1180333065473,
+    "team": "PHX",
+    "ppg": 19.67
   },
   "Stephon Castle": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.09745907220154,
+    "score": 22.09197434733047,
     "team": "SAS",
-    "ppg": 16.52
+    "ppg": 16.589999999999996
+  },
+  "Keyonte George": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 22.054510199007503,
+    "team": "UTA",
+    "ppg": 20.58
   },
   "Cam Thomas": {
     "tier": "STARTER",
@@ -489,61 +510,47 @@
     "team": "BKN",
     "ppg": 22.18
   },
-  "Dillon Brooks": {
+  "Trey Murphy III": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 22.016476354856906,
-    "team": "PHX",
-    "ppg": 19.25
+    "score": 22.03126427567784,
+    "team": "NOP",
+    "ppg": 21.06
   },
-  "Mikal Bridges": {
+  "Nickeil Alexander-Walker": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.968091305969875,
-    "team": "NYK",
-    "ppg": 16.619999999999997
-  },
-  "De'Andre Hunter": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.93439707826405,
-    "team": "CLE",
-    "ppg": 17.629999999999995
+    "score": 21.875244348514947,
+    "team": "ATL",
+    "ppg": 17.31
   },
   "Deandre Ayton": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.858812417128803,
+    "score": 21.853379323205544,
     "team": "LAL",
-    "ppg": 15.24
-  },
-  "Nikola Vucevic": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.844946505995466,
-    "team": "CHI",
-    "ppg": 17.029999999999998
-  },
-  "Kon Knueppel": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.84007608527238,
-    "team": "CHA",
-    "ppg": 18.4
-  },
-  "Onyeka Okongwu": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.824042600030918,
-    "team": "ATL",
-    "ppg": 15.569999999999999
+    "ppg": 15.03
   },
   "Zach LaVine": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.70888976512234,
+    "score": 21.751539152583966,
     "team": "SAC",
-    "ppg": 21.549999999999997
+    "ppg": 21.41
+  },
+  "Miles Bridges": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 21.705985593658806,
+    "team": "CHA",
+    "ppg": 20.79
+  },
+  "Payton Pritchard": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 21.702316468049826,
+    "team": "BOS",
+    "ppg": 16.26
   },
   "Domantas Sabonis": {
     "tier": "STARTER",
@@ -552,19 +559,33 @@
     "team": "SAC",
     "ppg": 17.77
   },
-  "Jalen Suggs": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.693665739579853,
-    "team": "ORL",
-    "ppg": 14.449999999999998
-  },
   "Mark Williams": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.62954014171151,
+    "score": 21.64489604270579,
     "team": "PHX",
-    "ppg": 13.62
+    "ppg": 13.829999999999998
+  },
+  "Ryan Rollins": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 21.583004259687442,
+    "team": "MIL",
+    "ppg": 17.5
+  },
+  "Jaren Jackson Jr.": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 21.538461672125813,
+    "team": "MEM",
+    "ppg": 18.56
+  },
+  "Jalen Suggs": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 21.51006528382382,
+    "team": "ORL",
+    "ppg": 15.079999999999998
   },
   "Doug McDermott": {
     "tier": "STARTER",
@@ -573,12 +594,12 @@
     "team": "SAC",
     "ppg": 6.0
   },
-  "Reed Sheppard": {
+  "Nikola Vucevic": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.402426210646315,
-    "team": "HOU",
-    "ppg": 14.3
+    "score": 21.42061154308065,
+    "team": "CHI",
+    "ppg": 16.68
   },
   "Jrue Holiday": {
     "tier": "STARTER",
@@ -587,40 +608,26 @@
     "team": "POR",
     "ppg": 15.02
   },
-  "Trey Murphy III": {
+  "Kon Knueppel": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.26580138297346,
-    "team": "NOP",
-    "ppg": 20.15
+    "score": 21.28417192855732,
+    "team": "CHA",
+    "ppg": 18.0
   },
-  "Derrick White": {
+  "Onyeka Okongwu": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.234109594264282,
-    "team": "BOS",
-    "ppg": 16.119999999999997
-  },
-  "Grayson Allen": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.206785501768984,
-    "team": "PHX",
-    "ppg": 15.709999999999997
-  },
-  "Nickeil Alexander-Walker": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.192985077858793,
+    "score": 21.2756514100965,
     "team": "ATL",
-    "ppg": 16.33
+    "ppg": 15.219999999999999
   },
   "Rudy Gobert": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.149268357911257,
+    "score": 21.231133510217784,
     "team": "MIN",
-    "ppg": 10.95
+    "ppg": 11.37
   },
   "Alex Sarr": {
     "tier": "STARTER",
@@ -629,68 +636,26 @@
     "team": "WAS",
     "ppg": 17.27
   },
-  "Darius Garland": {
+  "Jerami Grant": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 21.129970635092324,
-    "team": "CLE",
-    "ppg": 15.77
-  },
-  "Zach Edey": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.11128369672249,
-    "team": "MEM",
-    "ppg": 10.459999999999999
-  },
-  "Collin Sexton": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 21.008606829337328,
-    "team": "CHA",
-    "ppg": 16.86
+    "score": 21.059827060676955,
+    "team": "POR",
+    "ppg": 17.97
   },
   "Immanuel Quickley": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 20.999885616262468,
+    "score": 21.00501705822233,
     "team": "TOR",
-    "ppg": 16.19
+    "ppg": 16.68
   },
-  "Jerami Grant": {
+  "Josh Hart": {
     "tier": "STARTER",
     "elo_impact": -25,
-    "score": 20.998658851476304,
-    "team": "POR",
-    "ppg": 17.759999999999998
-  },
-  "Brandon Miller": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 20.991471812950735,
-    "team": "CHA",
-    "ppg": 18.2
-  },
-  "Jaden McDaniels": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 20.972176171254468,
-    "team": "MIN",
-    "ppg": 14.649999999999999
-  },
-  "Payton Pritchard": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 20.928855238623616,
-    "team": "BOS",
-    "ppg": 15.629999999999999
-  },
-  "Andrew Wiggins": {
-    "tier": "STARTER",
-    "elo_impact": -25,
-    "score": 20.81609146030461,
-    "team": "MIA",
-    "ppg": 17.439999999999998
+    "score": 21.00304500155507,
+    "team": "NYK",
+    "ppg": 12.479999999999999
   },
   "Moritz Wagner": {
     "tier": "STARTER",
@@ -699,26 +664,47 @@
     "team": "ORL",
     "ppg": 12.899999999999999
   },
-  "Jaime Jaquez Jr.": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.72586276053202,
-    "team": "MIA",
-    "ppg": 13.919999999999998
+  "Collin Sexton": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 20.760686514727865,
+    "team": "CHA",
+    "ppg": 16.369999999999997
   },
-  "Keegan Murray": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.72183493892247,
-    "team": "SAC",
-    "ppg": 17.44
+  "Andrew Wiggins": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 20.73424497340014,
+    "team": "MIA",
+    "ppg": 17.16
+  },
+  "Jaden McDaniels": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 20.70651799503522,
+    "team": "MIN",
+    "ppg": 14.51
   },
   "Dejounte Murray": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
+    "tier": "STARTER",
+    "elo_impact": -25,
     "score": 20.696197410220005,
     "team": "NOP",
     "ppg": 17.5
+  },
+  "Reed Sheppard": {
+    "tier": "STARTER",
+    "elo_impact": -25,
+    "score": 20.693086043421808,
+    "team": "HOU",
+    "ppg": 13.0
+  },
+  "Jabari Smith Jr.": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.670233157295808,
+    "team": "HOU",
+    "ppg": 14.37
   },
   "Quenton Jackson": {
     "tier": "ROTATION",
@@ -727,6 +713,20 @@
     "team": "IND",
     "ppg": 11.8
   },
+  "DeMar DeRozan": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.64439793358329,
+    "team": "SAC",
+    "ppg": 19.259999999999998
+  },
+  "Quentin Grimes": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.640863982439456,
+    "team": "PHI",
+    "ppg": 15.93
+  },
   "Tolu Smith": {
     "tier": "ROTATION",
     "elo_impact": -12,
@@ -734,19 +734,12 @@
     "team": "DET",
     "ppg": 8.5
   },
-  "DeMar DeRozan": {
+  "Brandon Miller": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.6044318887747,
-    "team": "SAC",
-    "ppg": 19.4
-  },
-  "Paul George": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.591138265807917,
-    "team": "PHI",
-    "ppg": 14.309999999999999
+    "score": 20.587909393340613,
+    "team": "CHA",
+    "ppg": 17.779999999999998
   },
   "Ty Jerome": {
     "tier": "ROTATION",
@@ -755,47 +748,40 @@
     "team": "CLE",
     "ppg": 12.5
   },
-  "Jakob Poeltl": {
+  "CJ McCollum": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.523872398399945,
-    "team": "TOR",
-    "ppg": 11.7
+    "score": 20.503661137572337,
+    "team": "WAS",
+    "ppg": 19.35
+  },
+  "De'Andre Hunter": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.46471806997796,
+    "team": "CLE",
+    "ppg": 16.299999999999997
   },
   "Aaron Wiggins": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.515043528326196,
+    "score": 20.30795132774109,
     "team": "OKC",
-    "ppg": 13.959999999999999
+    "ppg": 13.26
   },
-  "Quentin Grimes": {
+  "Jaime Jaquez Jr.": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.430919286318474,
+    "score": 20.294404121528707,
+    "team": "MIA",
+    "ppg": 13.64
+  },
+  "Paul George": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.284718806062106,
     "team": "PHI",
-    "ppg": 15.86
-  },
-  "Jabari Smith Jr.": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.40497993567362,
-    "team": "HOU",
-    "ppg": 14.229999999999999
-  },
-  "Kyle Lowry": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.39155497835498,
-    "team": "PHI",
-    "ppg": 2.2199999999999998
-  },
-  "Kevin Porter Jr.": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.350639781321636,
-    "team": "MIL",
-    "ppg": 11.139999999999999
+    "ppg": 14.729999999999999
   },
   "Malik Beasley": {
     "tier": "ROTATION",
@@ -804,33 +790,19 @@
     "team": "DET",
     "ppg": 16.3
   },
-  "CJ McCollum": {
+  "Neemias Queta": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.226511094052373,
-    "team": "WAS",
-    "ppg": 18.79
+    "score": 20.214713756887054,
+    "team": "BOS",
+    "ppg": 10.1
   },
-  "Tobias Harris": {
+  "Collin Gillespie": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 20.21836134210024,
-    "team": "DET",
-    "ppg": 14.749999999999998
-  },
-  "Dylan Harper": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.20986420290456,
-    "team": "SAS",
-    "ppg": 12.8
-  },
-  "Ajay Mitchell": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 20.201935455183282,
-    "team": "OKC",
-    "ppg": 12.589999999999998
+    "score": 20.206341532117396,
+    "team": "PHX",
+    "ppg": 13.6
   },
   "Christian Braun": {
     "tier": "ROTATION",
@@ -839,19 +811,40 @@
     "team": "DEN",
     "ppg": 12.6
   },
+  "Grayson Allen": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.165098396100433,
+    "team": "PHX",
+    "ppg": 15.009999999999998
+  },
   "P.J. Washington": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.989684463991033,
+    "score": 20.152694949835,
     "team": "DAL",
-    "ppg": 15.61
+    "ppg": 15.54
   },
-  "Kel'el Ware": {
+  "Darius Garland": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.9892191275845,
-    "team": "MIA",
-    "ppg": 11.469999999999999
+    "score": 20.137284089794726,
+    "team": "CLE",
+    "ppg": 15.98
+  },
+  "Jaylon Tyson": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.090141248627386,
+    "team": "CLE",
+    "ppg": 13.0
+  },
+  "Naz Reid": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 20.056291435243345,
+    "team": "MIN",
+    "ppg": 13.709999999999999
   },
   "Kelly Oubre Jr.": {
     "tier": "ROTATION",
@@ -860,124 +853,75 @@
     "team": "PHI",
     "ppg": 16.29
   },
-  "Josh Hart": {
+  "Cooper Flagg": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.968006710985595,
-    "team": "NYK",
-    "ppg": 11.71
+    "score": 19.945822326789187,
+    "team": "DAL",
+    "ppg": 17.3
   },
-  "Ayo Dosunmu": {
+  "Jakob Poeltl": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.938626352950532,
-    "team": "CHI",
-    "ppg": 14.61
+    "score": 19.924885509433718,
+    "team": "TOR",
+    "ppg": 11.489999999999998
   },
-  "Devin Vassell": {
+  "Dylan Harper": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.928511258805635,
+    "score": 19.92482655224808,
     "team": "SAS",
-    "ppg": 15.809999999999999
+    "ppg": 13.5
   },
-  "Neemias Queta": {
+  "Ajay Mitchell": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.88525096163242,
-    "team": "BOS",
-    "ppg": 9.8
-  },
-  "Collin Gillespie": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.82861492475778,
-    "team": "PHX",
-    "ppg": 12.7
-  },
-  "Donte DiVincenzo": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.79630878200443,
-    "team": "MIN",
-    "ppg": 13.099999999999998
-  },
-  "Cedric Coward": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.776425206124852,
-    "team": "MEM",
-    "ppg": 13.4
-  },
-  "VJ Edgecombe": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.77524746516397,
-    "team": "PHI",
-    "ppg": 15.6
-  },
-  "Santi Aldama": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.733631802945116,
-    "team": "MEM",
-    "ppg": 13.41
+    "score": 19.84708419803693,
+    "team": "OKC",
+    "ppg": 12.03
   },
   "Isaiah Joe": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.69441168255447,
+    "score": 19.817119546481013,
     "team": "OKC",
-    "ppg": 12.16
-  },
-  "Myles Turner": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.68047167812827,
-    "team": "MIL",
-    "ppg": 13.569999999999999
-  },
-  "Rui Hachimura": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.67626557282852,
-    "team": "LAL",
-    "ppg": 14.29
-  },
-  "Russell Westbrook": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.662846951519946,
-    "team": "SAC",
-    "ppg": 13.86
-  },
-  "Ryan Kalkbrenner": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.627110561613794,
-    "team": "CHA",
-    "ppg": 9.1
+    "ppg": 12.09
   },
   "Keldon Johnson": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.598576791489315,
+    "score": 19.70986565070099,
     "team": "SAS",
-    "ppg": 12.629999999999999
+    "ppg": 12.91
   },
-  "Jalen Williams": {
+  "Devin Vassell": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.5940849489772,
-    "team": "OKC",
-    "ppg": 14.18
+    "score": 19.698423711323183,
+    "team": "SAS",
+    "ppg": 15.879999999999999
   },
-  "Naz Reid": {
+  "De'Anthony Melton": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.583832702543873,
-    "team": "MIN",
-    "ppg": 13.29
+    "score": 19.66719387755102,
+    "team": "GSW",
+    "ppg": 13.5
+  },
+  "Anfernee Simons": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.65918058801476,
+    "team": "BOS",
+    "ppg": 15.169999999999998
+  },
+  "Russell Westbrook": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.594357839274544,
+    "team": "SAC",
+    "ppg": 13.72
   },
   "Tari Eason": {
     "tier": "ROTATION",
@@ -986,19 +930,75 @@
     "team": "HOU",
     "ppg": 11.649999999999999
   },
-  "Anfernee Simons": {
+  "Andrew Nembhard": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.472927556949227,
-    "team": "BOS",
-    "ppg": 15.169999999999998
+    "score": 19.56962622437508,
+    "team": "IND",
+    "ppg": 15.529999999999998
   },
-  "Sandro Mamukelashvili": {
+  "Ryan Kalkbrenner": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.375739846530333,
-    "team": "TOR",
-    "ppg": 10.3
+    "score": 19.50159554573274,
+    "team": "CHA",
+    "ppg": 9.0
+  },
+  "Tobias Harris": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.46566779363382,
+    "team": "DET",
+    "ppg": 14.399999999999999
+  },
+  "Cedric Coward": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.447934810326622,
+    "team": "MEM",
+    "ppg": 13.3
+  },
+  "Ayo Dosunmu": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.429926866457016,
+    "team": "CHI",
+    "ppg": 14.329999999999998
+  },
+  "Myles Turner": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.427408934520418,
+    "team": "MIL",
+    "ppg": 13.499999999999998
+  },
+  "Santi Aldama": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.36975217117794,
+    "team": "MEM",
+    "ppg": 12.92
+  },
+  "Donte DiVincenzo": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.336687094145535,
+    "team": "MIN",
+    "ppg": 12.749999999999998
+  },
+  "Kel'el Ware": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.332422518434484,
+    "team": "MIA",
+    "ppg": 10.91
+  },
+  "VJ Edgecombe": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.33075948339006,
+    "team": "PHI",
+    "ppg": 14.4
   },
   "Fred VanVleet": {
     "tier": "ROTATION",
@@ -1007,54 +1007,33 @@
     "team": "HOU",
     "ppg": 14.099999999999998
   },
-  "Harrison Barnes": {
+  "Derik Queen": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.272244076334694,
-    "team": "SAS",
-    "ppg": 12.649999999999999
+    "score": 19.28974282045756,
+    "team": "NOP",
+    "ppg": 12.9
   },
-  "Wendell Carter Jr.": {
+  "Cam Spencer": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.257436759183257,
-    "team": "ORL",
-    "ppg": 11.2
-  },
-  "Cameron Johnson": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.152617285566066,
-    "team": "DEN",
-    "ppg": 13.479999999999999
-  },
-  "Daniel Gafford": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.146850788544604,
-    "team": "DAL",
-    "ppg": 10.27
-  },
-  "Jonathan Kuminga": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.120424221714764,
-    "team": "GSW",
-    "ppg": 14.04
-  },
-  "Cooper Flagg": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 19.09076926338488,
-    "team": "DAL",
-    "ppg": 16.7
+    "score": 19.188860288161358,
+    "team": "MEM",
+    "ppg": 11.1
   },
   "John Collins": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 19.076226795907335,
+    "score": 19.166187943655945,
     "team": "LAC",
-    "ppg": 14.099999999999998
+    "ppg": 14.239999999999998
+  },
+  "Harrison Barnes": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 19.12035773591048,
+    "team": "SAS",
+    "ppg": 13.069999999999999
   },
   "Sam Merrill": {
     "tier": "ROTATION",
@@ -1063,19 +1042,33 @@
     "team": "CLE",
     "ppg": 11.89
   },
-  "Emanuel Miller": {
+  "Rui Hachimura": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.971996115344393,
-    "team": "CHI",
-    "ppg": 6.0
+    "score": 19.009929081038013,
+    "team": "LAL",
+    "ppg": 13.729999999999999
   },
-  "Malik Monk": {
+  "Daniel Gafford": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.933229512894314,
-    "team": "SAC",
-    "ppg": 14.049999999999997
+    "score": 18.89299223308355,
+    "team": "DAL",
+    "ppg": 9.92
+  },
+  "Nic Claxton": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.88204893276494,
+    "team": "BKN",
+    "ppg": 12.61
+  },
+  "Cameron Johnson": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.856418165436317,
+    "team": "DEN",
+    "ppg": 13.41
   },
   "Obi Toppin": {
     "tier": "ROTATION",
@@ -1091,6 +1084,20 @@
     "team": "NOP",
     "ppg": 18.259999999999998
   },
+  "Malik Monk": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.773853356501295,
+    "team": "SAC",
+    "ppg": 13.979999999999997
+  },
+  "Jonas Valanciunas": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.773193388313516,
+    "team": "DEN",
+    "ppg": 8.86
+  },
   "Aaron Nesmith": {
     "tier": "ROTATION",
     "elo_impact": -12,
@@ -1098,61 +1105,47 @@
     "team": "IND",
     "ppg": 14.45
   },
-  "Andrew Nembhard": {
+  "Brandin Podziemski": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.758952408414928,
-    "team": "IND",
-    "ppg": 15.04
-  },
-  "Kyle Kuzma": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.730155218463363,
-    "team": "MIL",
-    "ppg": 13.89
-  },
-  "Jahmai Mashack": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.723055555555554,
-    "team": "MEM",
-    "ppg": 6.0
-  },
-  "Jonas Valanciunas": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.69363883493318,
-    "team": "DEN",
-    "ppg": 8.86
-  },
-  "Derik Queen": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.68238296936643,
-    "team": "NOP",
-    "ppg": 11.8
-  },
-  "Paul Reed": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.675929319371726,
-    "team": "DET",
-    "ppg": 6.6
+    "score": 18.634686588039155,
+    "team": "GSW",
+    "ppg": 12.26
   },
   "Tre Jones": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.531808831907796,
+    "score": 18.632917732765534,
     "team": "CHI",
-    "ppg": 11.12
+    "ppg": 11.399999999999999
   },
-  "Kyshawn George": {
+  "Keegan Murray": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.4989744718023,
-    "team": "WAS",
-    "ppg": 13.67
+    "score": 18.584675738712598,
+    "team": "SAC",
+    "ppg": 14.5
+  },
+  "Wendell Carter Jr.": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.558913248561815,
+    "team": "ORL",
+    "ppg": 10.85
+  },
+  "Sandro Mamukelashvili": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.551691390065688,
+    "team": "TOR",
+    "ppg": 10.0
+  },
+  "Ausar Thompson": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.545871667759112,
+    "team": "DET",
+    "ppg": 11.29
   },
   "Scoot Henderson": {
     "tier": "ROTATION",
@@ -1161,68 +1154,68 @@
     "team": "POR",
     "ppg": 12.7
   },
-  "Nic Claxton": {
+  "Matas Buzelis": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.490602957405358,
-    "team": "BKN",
-    "ppg": 12.61
+    "score": 18.486566965752903,
+    "team": "CHI",
+    "ppg": 12.379999999999999
   },
-  "Jaylon Tyson": {
+  "Jamaree Bouyea": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.44472449491017,
-    "team": "CLE",
-    "ppg": 11.1
+    "score": 18.462013548078815,
+    "team": "PHX",
+    "ppg": 7.4
   },
-  "Brandin Podziemski": {
+  "Naji Marshall": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.42329486334641,
+    "score": 18.452721310453207,
+    "team": "DAL",
+    "ppg": 12.779999999999998
+  },
+  "Jonathan Kuminga": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.440691470012034,
     "team": "GSW",
-    "ppg": 12.12
+    "ppg": 13.27
+  },
+  "Bobby Portis": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 18.380971384934014,
+    "team": "MIL",
+    "ppg": 12.149999999999999
   },
   "Dyson Daniels": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.416228022032193,
+    "score": 18.359107192096012,
     "team": "ATL",
-    "ppg": 11.23
+    "ppg": 11.719999999999999
   },
-  "D'Angelo Russell": {
+  "Anthony Black": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.414707067638503,
-    "team": "DAL",
-    "ppg": 12.11
+    "score": 18.310133644166743,
+    "team": "ORL",
+    "ppg": 12.059999999999999
   },
-  "Ausar Thompson": {
+  "Paul Reed": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.400676707474325,
+    "score": 18.307864455364452,
     "team": "DET",
-    "ppg": 11.36
+    "ppg": 6.7
   },
-  "Duncan Robinson": {
+  "Jeremiah Fears": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.39770642921765,
-    "team": "DET",
-    "ppg": 12.119999999999997
-  },
-  "Luke Kornet": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.315199101981303,
-    "team": "SAS",
-    "ppg": 7.68
-  },
-  "Jaden Ivey": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.265525911818532,
-    "team": "DET",
-    "ppg": 11.02
+    "score": 18.300391424791826,
+    "team": "NOP",
+    "ppg": 15.4
   },
   "Jalen Smith": {
     "tier": "ROTATION",
@@ -1231,19 +1224,19 @@
     "team": "CHI",
     "ppg": 9.459999999999999
   },
-  "Anthony Black": {
+  "Kyshawn George": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.226241556991365,
-    "team": "ORL",
-    "ppg": 11.92
+    "score": 18.201896494151534,
+    "team": "WAS",
+    "ppg": 13.249999999999998
   },
-  "Jordan Miller": {
+  "Duncan Robinson": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.216293073595256,
-    "team": "LAC",
-    "ppg": 9.3
+    "score": 18.201754089821453,
+    "team": "DET",
+    "ppg": 11.98
   },
   "Malcolm Brogdon": {
     "tier": "ROTATION",
@@ -1252,19 +1245,19 @@
     "team": "WAS",
     "ppg": 12.7
   },
-  "Bobby Portis": {
+  "Kyle Kuzma": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.17847758917814,
+    "score": 18.182164694747758,
     "team": "MIL",
-    "ppg": 11.87
+    "ppg": 13.399999999999999
   },
-  "Matas Buzelis": {
+  "D'Angelo Russell": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.164480968681566,
-    "team": "CHI",
-    "ppg": 11.819999999999999
+    "score": 18.158138583121282,
+    "team": "DAL",
+    "ppg": 11.62
   },
   "Scotty Pippen Jr.": {
     "tier": "ROTATION",
@@ -1273,177 +1266,135 @@
     "team": "MEM",
     "ppg": 9.9
   },
-  "Jeremiah Fears": {
+  "Saddiq Bey": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 18.11741643323996,
+    "score": 18.08298536942583,
     "team": "NOP",
-    "ppg": 15.2
-  },
-  "T.J. McConnell": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.087330012857333,
-    "team": "IND",
-    "ppg": 10.01
-  },
-  "Naji Marshall": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.075316025898438,
-    "team": "DAL",
-    "ppg": 12.429999999999998
-  },
-  "Zaccharie Risacher": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.040889727147448,
-    "team": "ATL",
-    "ppg": 12.04
-  },
-  "Moses Moody": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 18.003821304429753,
-    "team": "GSW",
-    "ppg": 11.479999999999999
-  },
-  "Kevin Huerter": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 17.997740015274864,
-    "team": "CHI",
-    "ppg": 11.79
-  },
-  "Tim Hardaway Jr.": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 17.986886938456944,
-    "team": "DEN",
-    "ppg": 11.629999999999999
+    "ppg": 14.3
   },
   "Goga Bitadze": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.938217458464795,
+    "score": 18.053719038561432,
     "team": "ORL",
     "ppg": 6.569999999999999
   },
-  "Daniss Jenkins": {
+  "Jordan Miller": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.927980843118025,
-    "team": "DET",
-    "ppg": 9.3
+    "score": 18.041176470588237,
+    "team": "LAC",
+    "ppg": 8.5
+  },
+  "Miles McBride": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.999092413039296,
+    "team": "NYK",
+    "ppg": 10.969999999999999
+  },
+  "Tim Hardaway Jr.": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.97722983325508,
+    "team": "DEN",
+    "ppg": 11.84
   },
   "Jock Landale": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.922442130090246,
+    "score": 17.947466854705173,
     "team": "MEM",
-    "ppg": 11.3
+    "ppg": 10.9
   },
-  "Vit Krejci": {
+  "Jaden Ivey": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.899741108229655,
-    "team": "ATL",
-    "ppg": 9.649999999999999
+    "score": 17.91146626536898,
+    "team": "DET",
+    "ppg": 10.6
   },
-  "Julian Champagnie": {
+  "A.J. Lawson": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.86709856085451,
-    "team": "SAS",
-    "ppg": 10.88
+    "score": 17.88537619967023,
+    "team": "TOR",
+    "ppg": 9.73
   },
-  "Donovan Clingan": {
+  "Isaiah Stewart": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.858922799609672,
-    "team": "POR",
-    "ppg": 9.089999999999998
+    "score": 17.864146414727795,
+    "team": "DET",
+    "ppg": 8.8
+  },
+  "Moses Moody": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.82342773795188,
+    "team": "GSW",
+    "ppg": 11.129999999999999
   },
   "AJ Green": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.84577617236119,
+    "score": 17.81948339458341,
     "team": "MIL",
     "ppg": 10.13
   },
-  "Jordan Clarkson": {
+  "Aaron Holiday": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.827333062932322,
-    "team": "NYK",
-    "ppg": 12.139999999999999
+    "score": 17.72906309616265,
+    "team": "HOU",
+    "ppg": 9.1
   },
-  "Cam Spencer": {
+  "Donovan Clingan": {
     "tier": "ROTATION",
     "elo_impact": -12,
-    "score": 17.82454180915222,
-    "team": "MEM",
-    "ppg": 10.0
-  },
-  "Moussa Diabate": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 17.770811388696696,
-    "team": "CHA",
-    "ppg": 8.219999999999999
-  },
-  "Peyton Watson": {
-    "tier": "ROTATION",
-    "elo_impact": -12,
-    "score": 17.69925260531988,
-    "team": "DEN",
-    "ppg": 9.5
-  },
-  "Isaiah Stewart": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.68456260264483,
-    "team": "DET",
-    "ppg": 8.87
+    "score": 17.66651472544273,
+    "team": "POR",
+    "ppg": 8.95
   },
   "Richaun Holmes": {
-    "tier": "BENCH",
-    "elo_impact": -5,
+    "tier": "ROTATION",
+    "elo_impact": -12,
     "score": 17.660859552781748,
     "team": "WAS",
     "ppg": 7.4
   },
-  "Brandon Williams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.638095376433526,
-    "team": "DAL",
-    "ppg": 11.1
+  "Kevin Huerter": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.63631252614589,
+    "team": "CHI",
+    "ppg": 11.3
   },
   "Brandon Clarke": {
-    "tier": "BENCH",
-    "elo_impact": -5,
+    "tier": "ROTATION",
+    "elo_impact": -12,
     "score": 17.626216521967905,
     "team": "MEM",
     "ppg": 8.3
   },
-  "Isaiah Jackson": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.60972898675878,
-    "team": "IND",
-    "ppg": 8.4
+  "Steven Adams": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.622364424057086,
+    "team": "HOU",
+    "ppg": 6.6
   },
-  "Caris LeVert": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.591652901290985,
-    "team": "DET",
-    "ppg": 10.35
+  "Luke Kornet": {
+    "tier": "ROTATION",
+    "elo_impact": -12,
+    "score": 17.582400844181592,
+    "team": "SAS",
+    "ppg": 7.05
   },
   "Grant Williams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
+    "tier": "ROTATION",
+    "elo_impact": -12,
     "score": 17.579624008402664,
     "team": "CHA",
     "ppg": 10.399999999999999
@@ -1455,12 +1406,26 @@
     "team": "POR",
     "ppg": 5.75
   },
-  "Royce O'Neale": {
+  "Julian Champagnie": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.51949927914612,
-    "team": "PHX",
-    "ppg": 10.78
+    "score": 17.558615388319353,
+    "team": "SAS",
+    "ppg": 10.809999999999999
+  },
+  "Ryan Nembhard": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.52335972389251,
+    "team": "DAL",
+    "ppg": 8.9
+  },
+  "Vit Krejci": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.512319673809547,
+    "team": "ATL",
+    "ppg": 9.23
   },
   "Max Strus": {
     "tier": "BENCH",
@@ -1468,6 +1433,20 @@
     "score": 17.507534153005466,
     "team": "CLE",
     "ppg": 9.4
+  },
+  "Jordan Walsh": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.501038359788357,
+    "team": "BOS",
+    "ppg": 7.1
+  },
+  "Peyton Watson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.48563422851068,
+    "team": "DEN",
+    "ppg": 9.64
   },
   "Georges Niang": {
     "tier": "BENCH",
@@ -1483,40 +1462,40 @@
     "team": "UTA",
     "ppg": 7.6
   },
-  "Eric Gordon": {
+  "T.J. McConnell": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.452387657323783,
-    "team": "PHI",
-    "ppg": 5.1899999999999995
+    "score": 17.438930221142645,
+    "team": "IND",
+    "ppg": 9.1
   },
-  "Chris Livingston": {
+  "Brandon Williams": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.434352315394243,
-    "team": "CLE",
-    "ppg": 7.0
+    "score": 17.430650708158787,
+    "team": "DAL",
+    "ppg": 10.8
   },
-  "Aaron Holiday": {
+  "Jaylen Wells": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.409904658313216,
-    "team": "HOU",
-    "ppg": 8.0
+    "score": 17.410298158357282,
+    "team": "MEM",
+    "ppg": 11.66
   },
-  "Tristan da Silva": {
+  "Moussa Diabate": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.394863121288495,
-    "team": "ORL",
-    "ppg": 10.07
+    "score": 17.40870777997267,
+    "team": "CHA",
+    "ppg": 7.799999999999999
   },
-  "Marvin Bagley III": {
+  "Toumani Camara": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.38850522532127,
-    "team": "WAS",
-    "ppg": 7.6
+    "score": 17.397421315974235,
+    "team": "POR",
+    "ppg": 12.07
   },
   "Trendon Watford": {
     "tier": "BENCH",
@@ -1525,40 +1504,47 @@
     "team": "PHI",
     "ppg": 9.29
   },
-  "Brice Sensabaugh": {
+  "Zaccharie Risacher": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.326385290275763,
-    "team": "UTA",
-    "ppg": 9.85
+    "score": 17.36193670670749,
+    "team": "ATL",
+    "ppg": 11.549999999999999
   },
-  "Miles McBride": {
+  "Caris LeVert": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.324130656702163,
-    "team": "NYK",
-    "ppg": 10.69
+    "score": 17.35797688179209,
+    "team": "DET",
+    "ppg": 10.14
   },
-  "Pelle Larsson": {
+  "Marvin Bagley III": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.27677838088025,
+    "score": 17.320499124274267,
+    "team": "WAS",
+    "ppg": 8.5
+  },
+  "Davion Mitchell": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.319378573437625,
     "team": "MIA",
-    "ppg": 9.9
+    "ppg": 9.16
   },
-  "Cason Wallace": {
+  "Royce O'Neale": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.253757788280122,
-    "team": "OKC",
-    "ppg": 8.75
+    "score": 17.287889715279036,
+    "team": "PHX",
+    "ppg": 10.29
   },
-  "Max Christie": {
+  "Noah Clowney": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.242798298864734,
-    "team": "DAL",
-    "ppg": 11.489999999999998
+    "score": 17.229021689315335,
+    "team": "BKN",
+    "ppg": 12.040000000000001
   },
   "Derrick Jones Jr.": {
     "tier": "BENCH",
@@ -1567,6 +1553,20 @@
     "team": "LAC",
     "ppg": 10.379999999999999
   },
+  "Max Christie": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.20481417765478,
+    "team": "DAL",
+    "ppg": 11.14
+  },
+  "Danny Wolf": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.19751922057437,
+    "team": "BKN",
+    "ppg": 7.9
+  },
   "Jared Rhoden": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -1574,12 +1574,33 @@
     "team": "TOR",
     "ppg": 8.4
   },
-  "Davion Mitchell": {
+  "Kyle Filipowski": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.182651119810906,
-    "team": "MIA",
-    "ppg": 9.16
+    "score": 17.19001081247505,
+    "team": "UTA",
+    "ppg": 9.6
+  },
+  "Day'Ron Sharpe": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.18751195584747,
+    "team": "BKN",
+    "ppg": 7.27
+  },
+  "Jordan Clarkson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.18014826231,
+    "team": "NYK",
+    "ppg": 11.719999999999999
+  },
+  "Khris Middleton": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.141218078035784,
+    "team": "WAS",
+    "ppg": 10.85
   },
   "Lonnie Walker IV": {
     "tier": "BENCH",
@@ -1588,12 +1609,19 @@
     "team": "PHI",
     "ppg": 12.399999999999999
   },
-  "Jamison Battle": {
+  "Isaiah Jackson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.11727642566582,
-    "team": "TOR",
-    "ppg": 4.65
+    "score": 17.12244368406045,
+    "team": "IND",
+    "ppg": 7.8
+  },
+  "Cason Wallace": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 17.087549417471863,
+    "team": "OKC",
+    "ppg": 8.4
   },
   "Dereck Lively II": {
     "tier": "BENCH",
@@ -1605,37 +1633,9 @@
   "Will Richard": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 17.031315637974412,
+    "score": 16.983556367921913,
     "team": "GSW",
-    "ppg": 8.4
-  },
-  "Draymond Green": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.023301134851543,
-    "team": "GSW",
-    "ppg": 8.299999999999999
-  },
-  "Simone Fontecchio": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.02324846419406,
-    "team": "MIA",
-    "ppg": 8.98
-  },
-  "Josh Minott": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 17.010572318063915,
-    "team": "BOS",
-    "ppg": 7.6
-  },
-  "Klay Thompson": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.95885278718658,
-    "team": "DAL",
-    "ppg": 11.83
+    "ppg": 8.0
   },
   "Dennis Schroder": {
     "tier": "BENCH",
@@ -1644,33 +1644,47 @@
     "team": "SAC",
     "ppg": 12.61
   },
-  "Toumani Camara": {
+  "Klay Thompson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.887787088605137,
-    "team": "POR",
-    "ppg": 11.72
+    "score": 16.940305242469435,
+    "team": "DAL",
+    "ppg": 11.899999999999999
   },
-  "Jaxson Hayes": {
+  "Draymond Green": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.820685796321523,
-    "team": "LAL",
-    "ppg": 5.89
+    "score": 16.924775923905035,
+    "team": "GSW",
+    "ppg": 8.299999999999999
   },
-  "Nikola Jovic": {
+  "Simone Fontecchio": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.805394594609673,
+    "score": 16.84406658912231,
     "team": "MIA",
-    "ppg": 9.02
+    "ppg": 8.98
   },
-  "Khris Middleton": {
+  "Ethan Thompson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.792839097506285,
-    "team": "WAS",
-    "ppg": 10.36
+    "score": 16.839205033763044,
+    "team": "IND",
+    "ppg": 4.8
+  },
+  "Seth Curry": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.836447137791286,
+    "team": "GSW",
+    "ppg": 6.85
+  },
+  "Josh Minott": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.792975604322155,
+    "team": "BOS",
+    "ppg": 7.3
   },
   "Spencer Dinwiddie": {
     "tier": "BENCH",
@@ -1679,13 +1693,6 @@
     "team": "DAL",
     "ppg": 11.0
   },
-  "Andre Drummond": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.726763143305437,
-    "team": "PHI",
-    "ppg": 7.93
-  },
   "Jared Butler": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -1693,19 +1700,12 @@
     "team": "PHI",
     "ppg": 9.0
   },
-  "Day'Ron Sharpe": {
+  "Brice Sensabaugh": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.7053296807152,
-    "team": "BKN",
-    "ppg": 6.92
-  },
-  "Saddiq Bey": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.662799539873138,
-    "team": "NOP",
-    "ppg": 12.8
+    "score": 16.718818441168693,
+    "team": "UTA",
+    "ppg": 9.29
   },
   "Dorian Finney-Smith": {
     "tier": "BENCH",
@@ -1720,20 +1720,6 @@
     "score": 16.631737166492552,
     "team": "WAS",
     "ppg": 9.709999999999999
-  },
-  "Kyle Filipowski": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.619264328565613,
-    "team": "UTA",
-    "ppg": 8.76
-  },
-  "Cam Whitmore": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.595516233655438,
-    "team": "WAS",
-    "ppg": 9.33
   },
   "Brandon Boston": {
     "tier": "BENCH",
@@ -1752,37 +1738,58 @@
   "Luke Kennard": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.51474679637645,
+    "score": 16.46574938503161,
     "team": "ATL",
-    "ppg": 8.129999999999999
-  },
-  "Jaylen Wells": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.469196517301008,
-    "team": "MEM",
-    "ppg": 10.959999999999999
-  },
-  "Steven Adams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.46162484347608,
-    "team": "HOU",
-    "ppg": 6.0
-  },
-  "Noah Clowney": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.41396503976228,
-    "team": "BKN",
-    "ppg": 11.2
+    "ppg": 7.989999999999999
   },
   "Luka Garza": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.39453953715819,
+    "score": 16.449442835913683,
     "team": "BOS",
-    "ppg": 6.5
+    "ppg": 6.1
+  },
+  "Trey Alexander": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.435277777777774,
+    "team": "NOP",
+    "ppg": 4.7
+  },
+  "Andre Drummond": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.434219786143565,
+    "team": "PHI",
+    "ppg": 7.58
+  },
+  "Quinten Post": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.416861801184435,
+    "team": "GSW",
+    "ppg": 7.609999999999999
+  },
+  "Jamison Battle": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.415812113853274,
+    "team": "TOR",
+    "ppg": 4.859999999999999
+  },
+  "Robert Williams III": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.41457835744274,
+    "team": "POR",
+    "ppg": 5.659999999999999
+  },
+  "Jaxson Hayes": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.3993960386011,
+    "team": "LAL",
+    "ppg": 5.82
   },
   "Tre Johnson": {
     "tier": "BENCH",
@@ -1791,12 +1798,40 @@
     "team": "WAS",
     "ppg": 11.5
   },
-  "Dominick Barlow": {
+  "Maxime Raynaud": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.382255052695843,
-    "team": "PHI",
-    "ppg": 7.7
+    "score": 16.377285220824078,
+    "team": "SAC",
+    "ppg": 8.1
+  },
+  "Jusuf Nurkic": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.363207060002626,
+    "team": "UTA",
+    "ppg": 8.41
+  },
+  "Daniss Jenkins": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.359825429573274,
+    "team": "DET",
+    "ppg": 8.3
+  },
+  "Karlo Matkovic": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.35946904555422,
+    "team": "NOP",
+    "ppg": 5.74
+  },
+  "Pelle Larsson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.342273364148486,
+    "team": "MIA",
+    "ppg": 9.0
   },
   "Dante Exum": {
     "tier": "BENCH",
@@ -1805,103 +1840,68 @@
     "team": "DAL",
     "ppg": 8.7
   },
+  "Nikola Jovic": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.33847597238209,
+    "team": "MIA",
+    "ppg": 8.53
+  },
+  "Pat Spencer": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.329039963857888,
+    "team": "GSW",
+    "ppg": 7.4
+  },
+  "Tristan da Silva": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.269866711831774,
+    "team": "ORL",
+    "ppg": 9.16
+  },
+  "Nick Smith Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.234865674227443,
+    "team": "LAL",
+    "ppg": 8.43
+  },
   "Bogdan Bogdanovic": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.33804618378345,
+    "score": 16.234618134642265,
     "team": "LAC",
     "ppg": 9.68
-  },
-  "Cole Anthony": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.332399578335224,
-    "team": "MIL",
-    "ppg": 8.42
-  },
-  "Karlo Matkovic": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.293199467629528,
-    "team": "NOP",
-    "ppg": 5.74
-  },
-  "Robert Williams III": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.269167624012955,
-    "team": "POR",
-    "ppg": 5.449999999999999
-  },
-  "Isaiah Collier": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.25849883222538,
-    "team": "UTA",
-    "ppg": 8.91
-  },
-  "Jake LaRavia": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.22829913689794,
-    "team": "LAL",
-    "ppg": 8.58
-  },
-  "Jusuf Nurkic": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.1990907973613,
-    "team": "UTA",
-    "ppg": 7.989999999999999
-  },
-  "Vince Williams Jr.": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.18555105741566,
-    "team": "MEM",
-    "ppg": 7.929999999999999
-  },
-  "Danny Wolf": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.18114943097097,
-    "team": "BKN",
-    "ppg": 5.8
-  },
-  "Zach Collins": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.17025286166494,
-    "team": "CHI",
-    "ppg": 6.3999999999999995
-  },
-  "Quinten Post": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 16.164854910333915,
-    "team": "GSW",
-    "ppg": 7.119999999999999
   },
   "Luguentz Dort": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.12670013434933,
+    "score": 16.23304208749345,
     "team": "OKC",
-    "ppg": 8.56
+    "ppg": 8.629999999999999
   },
-  "Jamaree Bouyea": {
+  "Cam Whitmore": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.107666666666663,
-    "team": "PHX",
-    "ppg": 5.8
+    "score": 16.230961112813688,
+    "team": "WAS",
+    "ppg": 9.26
   },
-  "A.J. Lawson": {
+  "Jose Alvarado": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.107040015933844,
-    "team": "TOR",
-    "ppg": 9.1
+    "score": 16.150994041792337,
+    "team": "NOP",
+    "ppg": 9.459999999999999
+  },
+  "Jay Huff": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.117834656400504,
+    "team": "IND",
+    "ppg": 7.7
   },
   "Landry Shamet": {
     "tier": "BENCH",
@@ -1910,33 +1910,54 @@
     "team": "NYK",
     "ppg": 8.219999999999999
   },
-  "Brook Lopez": {
+  "Kenrich Williams": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 16.038341503826356,
-    "team": "LAC",
-    "ppg": 8.309999999999999
+    "score": 16.09807600536548,
+    "team": "OKC",
+    "ppg": 6.2299999999999995
   },
-  "Dru Smith": {
+  "Ace Bailey": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.997677524727186,
-    "team": "MIA",
-    "ppg": 6.34
+    "score": 16.02696194558088,
+    "team": "UTA",
+    "ppg": 10.3
+  },
+  "Kelly Olynyk": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 16.015681792202038,
+    "team": "SAS",
+    "ppg": 5.9
+  },
+  "Dominick Barlow": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.99877380472936,
+    "team": "PHI",
+    "ppg": 7.9
+  },
+  "Collin Murray-Boyles": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.978239146613744,
+    "team": "TOR",
+    "ppg": 7.0
   },
   "Jordan Goodwin": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.992885259846316,
+    "score": 15.977195970363528,
     "team": "PHX",
-    "ppg": 7.419999999999999
+    "ppg": 7.629999999999999
   },
-  "Gradey Dick": {
+  "Tristan Vukcevic": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.95733662944762,
-    "team": "TOR",
-    "ppg": 9.08
+    "score": 15.955110421836228,
+    "team": "WAS",
+    "ppg": 6.5
   },
   "Tosan Evbuomwan": {
     "tier": "BENCH",
@@ -1945,33 +1966,40 @@
     "team": "BKN",
     "ppg": 9.5
   },
-  "Kyle Anderson": {
+  "Jared McCain": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.892346325842956,
-    "team": "UTA",
-    "ppg": 7.09
+    "score": 15.918946554611448,
+    "team": "PHI",
+    "ppg": 9.84
   },
-  "Jeremy Sochan": {
+  "Cole Anthony": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.886766198354659,
-    "team": "SAS",
-    "ppg": 7.829999999999999
+    "score": 15.91159936792478,
+    "team": "MIL",
+    "ppg": 7.719999999999999
   },
-  "Jose Alvarado": {
+  "Jake LaRavia": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.863624058542667,
-    "team": "NOP",
-    "ppg": 9.04
+    "score": 15.892021337507735,
+    "team": "LAL",
+    "ppg": 8.299999999999999
   },
-  "Ace Bailey": {
+  "Asa Newell": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.862925536827522,
-    "team": "UTA",
-    "ppg": 9.6
+    "score": 15.876850547730829,
+    "team": "ATL",
+    "ppg": 4.6
+  },
+  "Tidjane Salaun": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.86079044840611,
+    "team": "CHA",
+    "ppg": 6.32
   },
   "Alec Burks": {
     "tier": "BENCH",
@@ -1979,6 +2007,13 @@
     "score": 15.859214646464645,
     "team": "MIA",
     "ppg": 7.299999999999999
+  },
+  "Brook Lopez": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.839304035780627,
+    "team": "LAC",
+    "ppg": 8.17
   },
   "Terry Rozier": {
     "tier": "BENCH",
@@ -1994,26 +2029,12 @@
     "team": "CHA",
     "ppg": 10.669999999999998
   },
-  "Kelly Olynyk": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.804756724183802,
-    "team": "SAS",
-    "ppg": 5.9
-  },
   "Keon Johnson": {
     "tier": "BENCH",
     "elo_impact": -5,
     "score": 15.761006752405658,
     "team": "BKN",
     "ppg": 10.599999999999998
-  },
-  "Ryan Dunn": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.757781683501891,
-    "team": "PHX",
-    "ppg": 7.949999999999999
   },
   "Dalano Banton": {
     "tier": "BENCH",
@@ -2022,26 +2043,26 @@
     "team": "POR",
     "ppg": 8.3
   },
-  "Jaylin Williams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.745374669685903,
-    "team": "OKC",
-    "ppg": 6.039999999999999
-  },
-  "Jay Huff": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.721602457391995,
-    "team": "IND",
-    "ppg": 7.4
-  },
   "Nae'Qwan Tomlin": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.72039984638015,
+    "score": 15.744854267660326,
     "team": "CLE",
-    "ppg": 6.9
+    "ppg": 7.2
+  },
+  "Kyle Anderson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.740286105577034,
+    "team": "UTA",
+    "ppg": 7.02
+  },
+  "Jaden Hardy": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.738794690830963,
+    "team": "DAL",
+    "ppg": 6.809999999999999
   },
   "Bradley Beal": {
     "tier": "BENCH",
@@ -2057,19 +2078,26 @@
     "team": "NOP",
     "ppg": 4.5
   },
-  "Baylor Scheierman": {
+  "Jericho Sims": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.67373486709815,
-    "team": "BOS",
-    "ppg": 3.7
+    "score": 15.66952439861323,
+    "team": "MIL",
+    "ppg": 2.7
   },
-  "Nick Smith Jr.": {
+  "Buddy Hield": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.641091306589864,
-    "team": "LAL",
-    "ppg": 7.869999999999999
+    "score": 15.657393104988378,
+    "team": "GSW",
+    "ppg": 8.93
+  },
+  "Dru Smith": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.639279128058245,
+    "team": "MIA",
+    "ppg": 6.27
   },
   "Alex Caruso": {
     "tier": "BENCH",
@@ -2078,19 +2106,12 @@
     "team": "OKC",
     "ppg": 6.119999999999999
   },
-  "Bilal Coulibaly": {
+  "Gradey Dick": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.61528883864611,
-    "team": "WAS",
-    "ppg": 10.479999999999999
-  },
-  "Duop Reath": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.568877147205912,
-    "team": "POR",
-    "ppg": 3.3
+    "score": 15.558886477094234,
+    "team": "TOR",
+    "ppg": 8.870000000000001
   },
   "Keion Brooks Jr.": {
     "tier": "BENCH",
@@ -2099,19 +2120,26 @@
     "team": "NOP",
     "ppg": 10.1
   },
-  "Craig Porter Jr.": {
+  "Bryce McGowens": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.551896781218565,
-    "team": "CLE",
-    "ppg": 5.8
+    "score": 15.544556034482762,
+    "team": "NOP",
+    "ppg": 7.8
   },
-  "Svi Mykhailiuk": {
+  "Jeremy Sochan": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.497239291765435,
+    "score": 15.542419156685167,
+    "team": "SAS",
+    "ppg": 7.6899999999999995
+  },
+  "Walter Clayton Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.47957124327195,
     "team": "UTA",
-    "ppg": 9.15
+    "ppg": 6.8
   },
   "Johnny Juzang": {
     "tier": "BENCH",
@@ -2120,40 +2148,68 @@
     "team": "UTA",
     "ppg": 8.899999999999999
   },
-  "Mitchell Robinson": {
+  "Vince Williams Jr.": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.423855169805325,
-    "team": "NYK",
-    "ppg": 4.1899999999999995
+    "score": 15.43642346369446,
+    "team": "MEM",
+    "ppg": 7.4399999999999995
+  },
+  "Ziaire Williams": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.379576331237038,
+    "team": "BKN",
+    "ppg": 9.719999999999999
+  },
+  "Eric Gordon": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.379320199331602,
+    "team": "PHI",
+    "ppg": 4.98
   },
   "Jevon Carter": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.411588996329126,
+    "score": 15.37522556463236,
     "team": "CHI",
-    "ppg": 6.3
+    "ppg": 6.9
   },
-  "Jared McCain": {
+  "Herbert Jones": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.398272884588128,
-    "team": "PHI",
-    "ppg": 9.489999999999998
-  },
-  "Yves Missi": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.393728438431033,
+    "score": 15.36353450000615,
     "team": "NOP",
-    "ppg": 7.139999999999999
+    "ppg": 10.02
   },
-  "Buddy Hield": {
+  "Duop Reath": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.29016742619854,
-    "team": "GSW",
-    "ppg": 8.37
+    "score": 15.362272619511357,
+    "team": "POR",
+    "ppg": 3.8
+  },
+  "Yanic Konan Niederhauser": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.33041387904013,
+    "team": "LAC",
+    "ppg": 2.8
+  },
+  "Jaylin Williams": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.305614154357311,
+    "team": "OKC",
+    "ppg": 5.6899999999999995
+  },
+  "Svi Mykhailiuk": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.29168350752999,
+    "team": "UTA",
+    "ppg": 8.94
   },
   "Cameron Payne": {
     "tier": "BENCH",
@@ -2162,19 +2218,19 @@
     "team": "NYK",
     "ppg": 6.9
   },
-  "Nick Richards": {
+  "Isaiah Collier": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.25833201657077,
-    "team": "PHX",
-    "ppg": 5.449999999999999
+    "score": 15.276933039846334,
+    "team": "UTA",
+    "ppg": 7.789999999999999
   },
-  "JD Davison": {
+  "Spencer Jones": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.236305276892612,
-    "team": "HOU",
-    "ppg": 2.9
+    "score": 15.225090504869899,
+    "team": "DEN",
+    "ppg": 4.6
   },
   "Jeff Dowtin Jr.": {
     "tier": "BENCH",
@@ -2183,145 +2239,124 @@
     "team": "PHI",
     "ppg": 7.0
   },
-  "Antonio Reeves": {
+  "Sam Hauser": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.193907411674349,
-    "team": "CHA",
-    "ppg": 5.22
+    "score": 15.21588586769524,
+    "team": "BOS",
+    "ppg": 7.59
   },
-  "Tyrese Martin": {
+  "Bones Hyland": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.189278157749445,
-    "team": "BKN",
-    "ppg": 8.77
-  },
-  "Noah Penda": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.185506404970035,
-    "team": "ORL",
-    "ppg": 4.0
-  },
-  "Jarace Walker": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.182552573483784,
-    "team": "IND",
-    "ppg": 8.969999999999999
-  },
-  "Jett Howard": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.180450247152372,
-    "team": "ORL",
-    "ppg": 6.0
-  },
-  "Mason Plumlee": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.176731131530627,
-    "team": "CHA",
-    "ppg": 2.3999999999999995
-  },
-  "Kevin Love": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.172952347557818,
-    "team": "UTA",
-    "ppg": 5.4
-  },
-  "Drew Eubanks": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.154945836133198,
-    "team": "SAC",
-    "ppg": 6.0
-  },
-  "Gary Trent Jr.": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.142093149615846,
-    "team": "MIL",
-    "ppg": 10.26
-  },
-  "Jaden Hardy": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.11027873281835,
-    "team": "DAL",
-    "ppg": 6.319999999999999
-  },
-  "Mike Conley": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.075122077131264,
+    "score": 15.198519813519814,
     "team": "MIN",
-    "ppg": 6.52
+    "ppg": 4.3
   },
-  "Egor Demin": {
+  "Mitchell Robinson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.074047814102064,
-    "team": "BKN",
-    "ppg": 8.5
+    "score": 15.198232306596868,
+    "team": "NYK",
+    "ppg": 4.119999999999999
   },
-  "Collin Murray-Boyles": {
+  "Ryan Dunn": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 15.06107996368955,
-    "team": "TOR",
-    "ppg": 6.7
-  },
-  "Josh Okogie": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 15.044760388421285,
-    "team": "HOU",
-    "ppg": 7.1
-  },
-  "Ziaire Williams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.948912731140604,
-    "team": "BKN",
-    "ppg": 9.51
-  },
-  "Mouhamed Gueye": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.927887079732745,
-    "team": "ATL",
-    "ppg": 6.14
-  },
-  "Seth Curry": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.925505416569246,
-    "team": "CHA",
-    "ppg": 6.5
+    "score": 15.170249915990668,
+    "team": "PHX",
+    "ppg": 7.459999999999999
   },
   "Ronald Holland II": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.905351461524916,
+    "score": 15.144297482261416,
     "team": "DET",
-    "ppg": 7.17
+    "ppg": 7.52
+  },
+  "Nick Richards": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.12904329330637,
+    "team": "PHX",
+    "ppg": 5.38
+  },
+  "Jarace Walker": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.11526140552024,
+    "team": "IND",
+    "ppg": 8.69
+  },
+  "Egor Demin": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 15.025307682041234,
+    "team": "BKN",
+    "ppg": 8.3
+  },
+  "Precious Achiuwa": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.995198246393427,
+    "team": "SAC",
+    "ppg": 7.299999999999999
+  },
+  "Kentavious Caldwell-Pope": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.94370690046091,
+    "team": "MEM",
+    "ppg": 7.93
+  },
+  "Josh Okogie": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.941558568575845,
+    "team": "HOU",
+    "ppg": 6.68
+  },
+  "Gary Trent Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.937478269434731,
+    "team": "MIL",
+    "ppg": 10.049999999999999
+  },
+  "Dalton Knecht": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.894475465523573,
+    "team": "LAL",
+    "ppg": 7.279999999999999
   },
   "Terance Mann": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.900462580289636,
+    "score": 14.88874484075387,
     "team": "BKN",
-    "ppg": 8.399999999999999
+    "ppg": 8.26
   },
-  "Kris Dunn": {
+  "Craig Porter Jr.": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.879488062552918,
-    "team": "LAC",
-    "ppg": 7.38
+    "score": 14.873708494832043,
+    "team": "CLE",
+    "ppg": 5.4
+  },
+  "Yves Missi": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.871841773617364,
+    "team": "NOP",
+    "ppg": 6.72
+  },
+  "Mason Plumlee": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.86919010735177,
+    "team": "CHA",
+    "ppg": 2.54
   },
   "Taurean Prince": {
     "tier": "BENCH",
@@ -2330,13 +2365,6 @@
     "team": "MIL",
     "ppg": 6.729999999999999
   },
-  "Jamal Shead": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.856283936279095,
-    "team": "TOR",
-    "ppg": 6.329999999999999
-  },
   "Mac McClung": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -2344,26 +2372,33 @@
     "team": "IND",
     "ppg": 6.3
   },
-  "Sam Hauser": {
+  "Bilal Coulibaly": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.84294668422515,
+    "score": 14.839543322332453,
+    "team": "WAS",
+    "ppg": 9.85
+  },
+  "Caleb Houstan": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.823043543543545,
+    "team": "ATL",
+    "ppg": 2.5
+  },
+  "Baylor Scheierman": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.809110481169121,
     "team": "BOS",
-    "ppg": 7.38
+    "ppg": 3.4
   },
-  "Herbert Jones": {
+  "Branden Carlson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.83604143393684,
-    "team": "NOP",
-    "ppg": 9.74
-  },
-  "Keon Ellis": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.827911197610197,
-    "team": "SAC",
-    "ppg": 6.6899999999999995
+    "score": 14.779031330251668,
+    "team": "OKC",
+    "ppg": 4.6
   },
   "Isaac Okoro": {
     "tier": "BENCH",
@@ -2372,26 +2407,61 @@
     "team": "CHI",
     "ppg": 7.569999999999999
   },
-  "Drake Powell": {
+  "Kris Dunn": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.765017445269743,
-    "team": "BKN",
-    "ppg": 6.4
-  },
-  "Dalton Knecht": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.75398792606416,
-    "team": "LAL",
-    "ppg": 7.35
+    "score": 14.756929790321001,
+    "team": "LAC",
+    "ppg": 7.31
   },
   "Clint Capela": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.692551874176765,
+    "score": 14.753309139542804,
     "team": "HOU",
-    "ppg": 5.119999999999999
+    "ppg": 5.33
+  },
+  "Kevin Love": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.718376331811264,
+    "team": "UTA",
+    "ppg": 5.5
+  },
+  "Kobe Sanders": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.695159515951595,
+    "team": "LAC",
+    "ppg": 6.9
+  },
+  "Drew Eubanks": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.675493316405799,
+    "team": "SAC",
+    "ppg": 5.5
+  },
+  "Jase Richardson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.671982519833268,
+    "team": "ORL",
+    "ppg": 3.4
+  },
+  "Jett Howard": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.64651106726892,
+    "team": "ORL",
+    "ppg": 5.3
+  },
+  "Drake Powell": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.627270833333334,
+    "team": "BKN",
+    "ppg": 6.3
   },
   "Haywood Highsmith": {
     "tier": "BENCH",
@@ -2400,33 +2470,19 @@
     "team": "MIA",
     "ppg": 6.5
   },
-  "Asa Newell": {
+  "Justin Champagnie": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.591905668358713,
-    "team": "ATL",
-    "ppg": 3.9
+    "score": 14.560219074182815,
+    "team": "WAS",
+    "ppg": 5.93
   },
-  "Bryce McGowens": {
+  "Oso Ighodaro": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.570223577235774,
-    "team": "NOP",
-    "ppg": 4.9
-  },
-  "Precious Achiuwa": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.568652802120436,
-    "team": "SAC",
-    "ppg": 6.879999999999999
-  },
-  "Justin Edwards": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.564944008463403,
-    "team": "PHI",
-    "ppg": 7.649999999999999
+    "score": 14.52490903108519,
+    "team": "PHX",
+    "ppg": 4.69
   },
   "Pat Connaughton": {
     "tier": "BENCH",
@@ -2435,19 +2491,26 @@
     "team": "CHA",
     "ppg": 4.3
   },
-  "Olivier-Maxence Prosper": {
+  "Tony Bradley": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.516767159324626,
-    "team": "MEM",
-    "ppg": 4.5
+    "score": 14.519018659264518,
+    "team": "IND",
+    "ppg": 4.9
+  },
+  "Tyrese Martin": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.494619457776148,
+    "team": "BKN",
+    "ppg": 8.209999999999999
   },
   "David Jones Garcia": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.488968431846478,
+    "score": 14.490743805094159,
     "team": "SAS",
-    "ppg": 3.8
+    "ppg": 3.2
   },
   "Ben Simmons": {
     "tier": "BENCH",
@@ -2477,117 +2540,75 @@
     "team": "SAC",
     "ppg": 6.5
   },
-  "Oso Ighodaro": {
+  "Mouhamed Gueye": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.383473363217023,
-    "team": "PHX",
-    "ppg": 4.62
+    "score": 14.458030989790066,
+    "team": "ATL",
+    "ppg": 5.859999999999999
   },
   "Javonte Green": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.377605945010277,
+    "score": 14.399603551437098,
     "team": "DET",
-    "ppg": 6.289999999999999
+    "ppg": 6.149999999999999
   },
-  "Patrick Williams": {
+  "Noah Penda": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.33298580548932,
-    "team": "CHI",
-    "ppg": 7.74
+    "score": 14.383393561410644,
+    "team": "ORL",
+    "ppg": 3.6
   },
-  "Al Horford": {
+  "Justin Edwards": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.329324717696693,
-    "team": "GSW",
-    "ppg": 6.76
+    "score": 14.36602543651887,
+    "team": "PHI",
+    "ppg": 7.369999999999999
   },
-  "Maxime Raynaud": {
+  "Mike Conley": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.309959969568457,
-    "team": "SAC",
-    "ppg": 5.9
+    "score": 14.352401928944996,
+    "team": "MIN",
+    "ppg": 6.169999999999999
   },
   "Trayce Jackson-Davis": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.300464771536161,
+    "score": 14.204256692723087,
     "team": "GSW",
-    "ppg": 5.06
+    "ppg": 4.989999999999999
+  },
+  "Jamal Shead": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.171075117196082,
+    "team": "TOR",
+    "ppg": 6.1899999999999995
+  },
+  "Dwight Powell": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.162667581641548,
+    "team": "DAL",
+    "ppg": 2.4
+  },
+  "Patrick Williams": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 14.155887757224363,
+    "team": "CHI",
+    "ppg": 7.74
   },
   "Gary Payton II": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.300046462388577,
+    "score": 14.131172529221258,
     "team": "GSW",
-    "ppg": 4.68
-  },
-  "Jericho Sims": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.278901067274685,
-    "team": "MIL",
-    "ppg": 1.8
-  },
-  "Lonzo Ball": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.27356499604148,
-    "team": "CLE",
-    "ppg": 6.41
-  },
-  "Kentavious Caldwell-Pope": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.258677349822289,
-    "team": "MEM",
-    "ppg": 7.789999999999999
-  },
-  "Tony Bradley": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.246146813408144,
-    "team": "IND",
-    "ppg": 4.9
-  },
-  "Caleb Houstan": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.210357357357358,
-    "team": "ATL",
-    "ppg": 2.4
-  },
-  "Malaki Branham": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.207070040628864,
-    "team": "WAS",
-    "ppg": 3.5
-  },
-  "Sion James": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.200280817269968,
-    "team": "CHA",
-    "ppg": 6.6
-  },
-  "Ja'Kobe Walter": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.188869044400274,
-    "team": "TOR",
-    "ppg": 6.08
-  },
-  "Bones Hyland": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 14.139337411887832,
-    "team": "MIN",
-    "ppg": 3.9
+    "ppg": 4.75
   },
   "Blake Wesley": {
     "tier": "BENCH",
@@ -2596,40 +2617,68 @@
     "team": "POR",
     "ppg": 6.0
   },
-  "Jordan Walsh": {
+  "Sion James": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.04227057842849,
-    "team": "BOS",
-    "ppg": 4.7
+    "score": 14.121376142317532,
+    "team": "CHA",
+    "ppg": 6.6
   },
-  "Cam Christie": {
+  "Keon Ellis": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.030526680672837,
-    "team": "LAC",
-    "ppg": 4.9
+    "score": 14.098661142990329,
+    "team": "SAC",
+    "ppg": 6.13
   },
-  "Caleb Love": {
+  "Al Horford": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 14.011657494108995,
-    "team": "POR",
-    "ppg": 7.9
+    "score": 14.093866754876908,
+    "team": "GSW",
+    "ppg": 6.619999999999999
   },
-  "Dwight Powell": {
+  "Adem Bona": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.98869122500485,
-    "team": "DAL",
-    "ppg": 2.3
+    "score": 14.027085094503198,
+    "team": "PHI",
+    "ppg": 4.1899999999999995
   },
-  "Jarred Vanderbilt": {
+  "Chris Livingston": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.921868675498487,
-    "team": "LAL",
-    "ppg": 4.449999999999999
+    "score": 14.023472323048999,
+    "team": "CLE",
+    "ppg": 3.0
+  },
+  "Antonio Reeves": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.925952188009123,
+    "team": "CHA",
+    "ppg": 4.52
+  },
+  "Lonzo Ball": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.90612286026273,
+    "team": "CLE",
+    "ppg": 6.129999999999999
+  },
+  "Bruce Brown": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.875697503414129,
+    "team": "DEN",
+    "ppg": 7.18
+  },
+  "Olivier-Maxence Prosper": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.855685695030193,
+    "team": "MEM",
+    "ppg": 4.1
   },
   "Julian Strawther": {
     "tier": "BENCH",
@@ -2638,96 +2687,75 @@
     "team": "DEN",
     "ppg": 5.289999999999999
   },
-  "Tristan Vukcevic": {
+  "Caleb Love": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.830902826697082,
-    "team": "WAS",
-    "ppg": 4.3
+    "score": 13.844029374201789,
+    "team": "POR",
+    "ppg": 8.0
   },
-  "Branden Carlson": {
+  "Jonathan Mogbo": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.78263360415256,
-    "team": "OKC",
-    "ppg": 3.8
+    "score": 13.828530512204878,
+    "team": "TOR",
+    "ppg": 6.199999999999999
   },
-  "Jase Richardson": {
+  "Garrison Mathews": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.753713385242861,
-    "team": "ORL",
-    "ppg": 2.8
-  },
-  "Kobe Sanders": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.723061596675613,
-    "team": "LAC",
-    "ppg": 6.1
-  },
-  "Ron Harper Jr.": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.691711073950204,
-    "team": "BOS",
-    "ppg": 2.7
-  },
-  "Ryan Nembhard": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.68737391146555,
-    "team": "DAL",
-    "ppg": 5.4
-  },
-  "Bruce Brown": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.611291206803665,
-    "team": "DEN",
-    "ppg": 6.8999999999999995
-  },
-  "Johnny Furphy": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.591706739526412,
+    "score": 13.819247744953582,
     "team": "IND",
-    "ppg": 2.7
+    "ppg": 5.609999999999999
   },
-  "Walter Clayton Jr.": {
+  "Liam McNeeley": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.589061589925224,
-    "team": "UTA",
-    "ppg": 5.0
+    "score": 13.744684118256437,
+    "team": "CHA",
+    "ppg": 4.9
   },
-  "Adem Bona": {
+  "Guerschon Yabusele": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.58880524607085,
+    "score": 13.734036762463823,
+    "team": "NYK",
+    "ppg": 5.539999999999999
+  },
+  "Jarred Vanderbilt": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.694839495129196,
+    "team": "LAL",
+    "ppg": 4.239999999999999
+  },
+  "KJ Simpson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.68726875395167,
+    "team": "CHA",
+    "ppg": 6.3999999999999995
+  },
+  "Jabari Walker": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.653451388638693,
     "team": "PHI",
-    "ppg": 3.84
+    "ppg": 4.6
   },
-  "Keaton Wallace": {
+  "Ja'Kobe Walter": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.560648058084775,
-    "team": "ATL",
-    "ppg": 4.91
+    "score": 13.585744742045268,
+    "team": "TOR",
+    "ppg": 6.219999999999999
   },
-  "Terrence Shannon Jr.": {
+  "Malaki Branham": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.54550048522203,
-    "team": "MIN",
-    "ppg": 5.5
-  },
-  "Moussa Cisse": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.53504055678066,
-    "team": "DAL",
-    "ppg": 3.3
+    "score": 13.534756649115701,
+    "team": "WAS",
+    "ppg": 3.6
   },
   "Daniel Theis": {
     "tier": "BENCH",
@@ -2743,12 +2771,33 @@
     "team": "PHX",
     "ppg": 6.599999999999999
   },
-  "Jalen Wilson": {
+  "Tyrese Proctor": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.459932236266525,
-    "team": "BKN",
-    "ppg": 6.77
+    "score": 13.472298291984542,
+    "team": "CLE",
+    "ppg": 5.6
+  },
+  "Hugo Gonzalez": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.464002283219171,
+    "team": "BOS",
+    "ppg": 3.4
+  },
+  "Kyle Lowry": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.462353425648423,
+    "team": "PHI",
+    "ppg": 2.57
+  },
+  "Adou Thiero": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.445638888888892,
+    "team": "LAL",
+    "ppg": 1.3
   },
   "Josh Green": {
     "tier": "BENCH",
@@ -2760,7 +2809,7 @@
   "Dean Wade": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.400266346738551,
+    "score": 13.401549680071884,
     "team": "CLE",
     "ppg": 5.33
   },
@@ -2770,6 +2819,13 @@
     "score": 13.3880253757083,
     "team": "WAS",
     "ppg": 7.6
+  },
+  "Jaylen Clark": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.352391218701571,
+    "team": "MIN",
+    "ppg": 4.8
   },
   "Colin Castleton": {
     "tier": "BENCH",
@@ -2784,13 +2840,6 @@
     "score": 13.299627440832047,
     "team": "MEM",
     "ppg": 4.3
-  },
-  "Pat Spencer": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 13.295377853575888,
-    "team": "GSW",
-    "ppg": 4.8
   },
   "Jalen Hood-Schifino": {
     "tier": "BENCH",
@@ -2820,12 +2869,47 @@
     "team": "ORL",
     "ppg": 3.6799999999999997
   },
-  "KJ Simpson": {
+  "Ben Saraf": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 13.184909478945215,
-    "team": "CHA",
-    "ppg": 5.77
+    "score": 13.190532411109334,
+    "team": "BKN",
+    "ppg": 5.4
+  },
+  "Jae'Sean Tate": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.189611309858318,
+    "team": "HOU",
+    "ppg": 2.9
+  },
+  "Zeke Nnaji": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.161379291251384,
+    "team": "DEN",
+    "ppg": 2.3
+  },
+  "John Konchar": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.094331496900157,
+    "team": "MEM",
+    "ppg": 3.0
+  },
+  "Taylor Hendricks": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.086855687416032,
+    "team": "UTA",
+    "ppg": 5.1
+  },
+  "Jalen Wilson": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.086252097036388,
+    "team": "BKN",
+    "ppg": 6.35
   },
   "Jordan McLaughlin": {
     "tier": "BENCH",
@@ -2834,6 +2918,13 @@
     "team": "SAS",
     "ppg": 3.5
   },
+  "Terrence Shannon Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 13.062074068667995,
+    "team": "MIN",
+    "ppg": 4.7
+  },
   "James Wiseman": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -2841,19 +2932,33 @@
     "team": "IND",
     "ppg": 4.0
   },
-  "Rob Dillingham": {
+  "Moussa Cisse": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.990522493759796,
-    "team": "MIN",
-    "ppg": 4.4
+    "score": 13.0101636069857,
+    "team": "DAL",
+    "ppg": 2.9
+  },
+  "Tyler Kolek": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.99281415420023,
+    "team": "NYK",
+    "ppg": 3.7
   },
   "Nicolas Batum": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.952434896924018,
+    "score": 12.987370175303546,
     "team": "LAC",
-    "ppg": 4.21
+    "ppg": 4.28
+  },
+  "Zach Collins": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.94100685730958,
+    "team": "CHI",
+    "ppg": 5.77
   },
   "DaQuan Jeffries": {
     "tier": "BENCH",
@@ -2862,6 +2967,20 @@
     "team": "CHA",
     "ppg": 6.699999999999999
   },
+  "Will Riley": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.913309967141293,
+    "team": "WAS",
+    "ppg": 3.9
+  },
+  "Keaton Wallace": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.90375412211203,
+    "team": "ATL",
+    "ppg": 4.63
+  },
   "Micah Potter": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -2869,26 +2988,40 @@
     "team": "UTA",
     "ppg": 4.3
   },
-  "Zeke Nnaji": {
+  "Jordan Hawkins": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.874130598774164,
-    "team": "DEN",
-    "ppg": 2.5
+    "score": 12.845912511472157,
+    "team": "NOP",
+    "ppg": 6.88
   },
-  "Tyrese Proctor": {
+  "Sidy Cissoko": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.79523924755898,
+    "score": 12.788214996420018,
+    "team": "POR",
+    "ppg": 4.9
+  },
+  "Bub Carrington": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.78632641877528,
+    "team": "WAS",
+    "ppg": 7.84
+  },
+  "Thomas Bryant": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.770265209575172,
     "team": "CLE",
-    "ppg": 5.1
+    "ppg": 3.3
   },
-  "Jalen Pickett": {
+  "Cam Christie": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.745156136528685,
-    "team": "DEN",
-    "ppg": 2.3
+    "score": 12.765952212627717,
+    "team": "LAC",
+    "ppg": 4.4
   },
   "Marcus Bagley": {
     "tier": "BENCH",
@@ -2897,26 +3030,47 @@
     "team": "PHI",
     "ppg": 6.699999999999999
   },
-  "Jordan Hawkins": {
+  "Ben Sheppard": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.711853813275429,
-    "team": "NOP",
-    "ppg": 6.81
+    "score": 12.73758275152015,
+    "team": "IND",
+    "ppg": 6.14
   },
-  "Guerschon Yabusele": {
+  "Gabe Vincent": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.693535154993702,
-    "team": "NYK",
-    "ppg": 5.119999999999999
+    "score": 12.681982465934174,
+    "team": "LAL",
+    "ppg": 5.489999999999999
   },
-  "Bub Carrington": {
+  "Gui Santos": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.651264525874735,
-    "team": "WAS",
-    "ppg": 7.49
+    "score": 12.67611899812662,
+    "team": "GSW",
+    "ppg": 3.4
+  },
+  "Ousmane Dieng": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.653696868008948,
+    "team": "OKC",
+    "ppg": 3.9
+  },
+  "Jonathan Isaac": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.641583520622728,
+    "team": "ORL",
+    "ppg": 3.7199999999999998
+  },
+  "Emanuel Miller": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.640399441096847,
+    "team": "CHI",
+    "ppg": 3.0
   },
   "Larry Nance Jr.": {
     "tier": "BENCH",
@@ -2925,138 +3079,103 @@
     "team": "CLE",
     "ppg": 5.07
   },
-  "Justin Champagnie": {
+  "Kobe Brown": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.573179066075877,
-    "team": "WAS",
-    "ppg": 4.6
+    "score": 12.61448198198198,
+    "team": "LAC",
+    "ppg": 3.8
   },
-  "Jamir Watkins": {
+  "Ochai Agbaji": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.570995085995087,
-    "team": "WAS",
-    "ppg": 2.2
+    "score": 12.608070686840637,
+    "team": "TOR",
+    "ppg": 5.57
   },
-  "Jonathan Isaac": {
+  "Jalen Pickett": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.568847732468369,
-    "team": "ORL",
-    "ppg": 3.65
-  },
-  "Liam McNeeley": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.536983660076313,
-    "team": "CHA",
-    "ppg": 4.0
+    "score": 12.582623456790122,
+    "team": "DEN",
+    "ppg": 2.3
   },
   "RayJ Dennis": {
     "tier": "BENCH",
     "elo_impact": -5,
     "score": 12.515758408610417,
-    "team": "IND",
+    "team": "LAC",
     "ppg": 4.9
   },
-  "Tyler Kolek": {
+  "Bismack Biyombo": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.509840702210665,
-    "team": "NYK",
-    "ppg": 3.2
+    "score": 12.497417839392165,
+    "team": "SAS",
+    "ppg": 2.1599999999999997
   },
-  "Spencer Jones": {
+  "Xavier Tillman": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.49566391184573,
-    "team": "DEN",
-    "ppg": 2.9
+    "score": 12.460496453900708,
+    "team": "BOS",
+    "ppg": 2.8
+  },
+  "Dalen Terry": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.403522343535588,
+    "team": "CHI",
+    "ppg": 3.1
+  },
+  "Nique Clifford": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 12.385524449716623,
+    "team": "SAC",
+    "ppg": 4.5
   },
   "Jeremiah Robinson-Earl": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.48375361139648,
+    "score": 12.362727847584365,
     "team": "IND",
-    "ppg": 5.25
-  },
-  "Gabe Vincent": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.478022712286128,
-    "team": "LAL",
-    "ppg": 4.51
-  },
-  "Ben Sheppard": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.42990286151809,
-    "team": "IND",
-    "ppg": 6.14
-  },
-  "Lindy Waters III": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.421136235195066,
-    "team": "SAS",
-    "ppg": 3.2199999999999998
-  },
-  "John Konchar": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.25479241611134,
-    "team": "MEM",
-    "ppg": 2.5
+    "ppg": 5.109999999999999
   },
   "Kris Murray": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.25466541934241,
+    "score": 12.263737195295201,
     "team": "POR",
-    "ppg": 5.18
+    "ppg": 5.109999999999999
   },
-  "Kobe Brown": {
+  "Chris Paul": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.225482813948512,
+    "score": 12.259494943884079,
     "team": "LAC",
-    "ppg": 3.3
+    "ppg": 4.67
   },
-  "Keshad Johnson": {
+  "Amir Coffey": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.167483829680965,
-    "team": "MIA",
-    "ppg": 4.0
+    "score": 12.219495919085615,
+    "team": "MIL",
+    "ppg": 4.1
   },
-  "Chaz Lanier": {
+  "Rob Dillingham": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.140410644910643,
-    "team": "DET",
-    "ppg": 3.6
+    "score": 12.191544908285897,
+    "team": "MIN",
+    "ppg": 3.7
   },
-  "Gui Santos": {
+  "Julian Phillips": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 12.05276715402414,
-    "team": "GSW",
-    "ppg": 2.5
-  },
-  "Sidy Cissoko": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.051661290322578,
-    "team": "POR",
-    "ppg": 4.3
-  },
-  "Tidjane Salaun": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 12.019755950790854,
-    "team": "CHA",
-    "ppg": 3.94
+    "score": 12.002532436085145,
+    "team": "CHI",
+    "ppg": 3.0
   },
   "GG Jackson": {
     "tier": "BENCH",
@@ -3065,26 +3184,12 @@
     "team": "MEM",
     "ppg": 3.91
   },
-  "Jabari Walker": {
+  "Keshad Johnson": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.995526703392843,
-    "team": "PHI",
-    "ppg": 3.4
-  },
-  "Xavier Tillman": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.889740308707436,
-    "team": "BOS",
-    "ppg": 2.5
-  },
-  "Chris Paul": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.882187934341491,
-    "team": "LAC",
-    "ppg": 4.46
+    "score": 11.9004602876798,
+    "team": "MIA",
+    "ppg": 3.9
   },
   "Damion Baugh": {
     "tier": "BENCH",
@@ -3093,12 +3198,12 @@
     "team": "CHA",
     "ppg": 7.299999999999999
   },
-  "Ochai Agbaji": {
+  "Lindy Waters III": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.86167007756359,
-    "team": "TOR",
-    "ppg": 5.15
+    "score": 11.856357064920893,
+    "team": "SAS",
+    "ppg": 3.08
   },
   "Elijah Harkless": {
     "tier": "BENCH",
@@ -3107,33 +3212,12 @@
     "team": "UTA",
     "ppg": 2.4
   },
-  "Gary Harris": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.83087882764654,
-    "team": "MIL",
-    "ppg": 2.4
-  },
-  "Jaylen Clark": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.828559594092782,
-    "team": "MIN",
-    "ppg": 4.0
-  },
   "Micah Peavy": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.783708702855472,
+    "score": 11.70512930884692,
     "team": "NOP",
-    "ppg": 4.7
-  },
-  "Yang Hansen": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.747878124603476,
-    "team": "POR",
-    "ppg": 2.8
+    "ppg": 4.9
   },
   "Chris Boucher": {
     "tier": "BENCH",
@@ -3142,19 +3226,26 @@
     "team": "BOS",
     "ppg": 4.609999999999999
   },
-  "Amir Coffey": {
+  "Tyus Jones": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.672942592488383,
-    "team": "MIL",
-    "ppg": 4.029999999999999
+    "score": 11.667373307587892,
+    "team": "ORL",
+    "ppg": 4.81
   },
-  "Taylor Hendricks": {
+  "Chaz Lanier": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.598717973109693,
-    "team": "UTA",
-    "ppg": 4.0
+    "score": 11.618251442924748,
+    "team": "DET",
+    "ppg": 3.3
+  },
+  "Kevon Looney": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 11.579569506841422,
+    "team": "NOP",
+    "ppg": 3.2399999999999998
   },
   "Isaiah Livers": {
     "tier": "BENCH",
@@ -3163,61 +3254,33 @@
     "team": "PHX",
     "ppg": 2.5
   },
-  "Dalen Terry": {
+  "Ariel Hukporti": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.437581493670173,
-    "team": "CHI",
-    "ppg": 2.3
+    "score": 11.503851788104797,
+    "team": "NYK",
+    "ppg": 1.3
   },
-  "Ben Saraf": {
+  "Chris Youngblood": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.431579316617242,
-    "team": "BKN",
-    "ppg": 4.1
-  },
-  "Nique Clifford": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.424633053106975,
-    "team": "SAC",
-    "ppg": 3.8
-  },
-  "Kevon Looney": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.210779672809432,
-    "team": "NOP",
-    "ppg": 3.17
-  },
-  "Julian Phillips": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.180775269223503,
-    "team": "CHI",
-    "ppg": 2.2
-  },
-  "Thomas Bryant": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.177834589542346,
-    "team": "CLE",
-    "ppg": 2.2
-  },
-  "Rasheer Fleming": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.13750717703349,
-    "team": "PHX",
-    "ppg": 2.1
-  },
-  "Ousmane Dieng": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.095219521952194,
+    "score": 11.456059268098647,
     "team": "OKC",
-    "ppg": 3.0
+    "ppg": 1.8
+  },
+  "JD Davison": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 11.3403116846498,
+    "team": "HOU",
+    "ppg": 1.8
+  },
+  "Gary Harris": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 11.328159443885303,
+    "team": "MIL",
+    "ppg": 2.3
   },
   "Wendell Moore Jr.": {
     "tier": "BENCH",
@@ -3226,12 +3289,19 @@
     "team": "DET",
     "ppg": 2.0
   },
-  "Hugo Gonzalez": {
+  "Yang Hansen": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.082139406487233,
+    "score": 11.07388836636519,
+    "team": "POR",
+    "ppg": 2.6
+  },
+  "Ron Harper Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 11.072470588235294,
     "team": "BOS",
-    "ppg": 2.5
+    "ppg": 2.0
   },
   "Charles Bassey": {
     "tier": "BENCH",
@@ -3240,19 +3310,12 @@
     "team": "MEM",
     "ppg": 3.5
   },
-  "Carter Bryant": {
+  "Johnny Furphy": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 11.021944681203681,
-    "team": "SAS",
-    "ppg": 2.3
-  },
-  "Tyus Jones": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 11.01181097934889,
-    "team": "ORL",
-    "ppg": 4.529999999999999
+    "score": 11.028891812865497,
+    "team": "IND",
+    "ppg": 2.2
   },
   "Bobi Klintman": {
     "tier": "BENCH",
@@ -3261,13 +3324,6 @@
     "team": "DET",
     "ppg": 2.8
   },
-  "Chris Youngblood": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.93099097574732,
-    "team": "OKC",
-    "ppg": 1.6
-  },
   "Cam Reddish": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -3275,26 +3331,40 @@
     "team": "LAL",
     "ppg": 3.1999999999999997
   },
-  "Will Riley": {
+  "Jamir Watkins": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 10.887054367201426,
+    "score": 10.897945815450642,
     "team": "WAS",
-    "ppg": 2.2
+    "ppg": 2.1
   },
   "Brooks Barnhizer": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 10.84222727272727,
+    "score": 10.865971652712771,
     "team": "OKC",
-    "ppg": 1.4
+    "ppg": 1.7
   },
-  "Jonathan Mogbo": {
+  "Carter Bryant": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 10.774208696145124,
-    "team": "TOR",
-    "ppg": 2.4899999999999998
+    "score": 10.861631216615823,
+    "team": "SAS",
+    "ppg": 2.5
+  },
+  "Rasheer Fleming": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 10.841848796061235,
+    "team": "PHX",
+    "ppg": 2.0
+  },
+  "Maxi Kleber": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 10.777276238212705,
+    "team": "LAL",
+    "ppg": 2.16
   },
   "Colby Jones": {
     "tier": "BENCH",
@@ -3310,33 +3380,12 @@
     "team": "NYK",
     "ppg": 3.0999999999999996
   },
-  "Rayan Rupert": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.590355417529329,
-    "team": "POR",
-    "ppg": 1.8
-  },
-  "Maxi Kleber": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.536440305951665,
-    "team": "LAL",
-    "ppg": 2.0199999999999996
-  },
   "Elfrid Payton": {
     "tier": "BENCH",
     "elo_impact": -5,
     "score": 10.526070379463324,
     "team": "NOP",
     "ppg": 3.5
-  },
-  "Garrison Mathews": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.354980402928039,
-    "team": "IND",
-    "ppg": 3.51
   },
   "Jamal Cain": {
     "tier": "BENCH",
@@ -3359,20 +3408,6 @@
     "team": "IND",
     "ppg": 3.0
   },
-  "Kenrich Williams": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.30189967188665,
-    "team": "OKC",
-    "ppg": 2.9399999999999995
-  },
-  "Johni Broome": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.21637019969278,
-    "team": "PHI",
-    "ppg": 2.0
-  },
   "Miles Kelly": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -3380,47 +3415,40 @@
     "team": "DAL",
     "ppg": 1.0
   },
-  "Javonte Cooke": {
+  "Bronny James": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 10.146051208285382,
-    "team": "POR",
-    "ppg": 2.3
-  },
-  "Jae'Sean Tate": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.074057438794725,
-    "team": "HOU",
-    "ppg": 1.4
-  },
-  "Taelon Peter": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 10.027042055777905,
-    "team": "IND",
-    "ppg": 1.9
-  },
-  "Lachlan Olbrich": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 9.793939393939395,
-    "team": "CHI",
+    "score": 9.957506158214398,
+    "team": "LAL",
     "ppg": 2.0
-  },
-  "Bismack Biyombo": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 9.682588390876361,
-    "team": "SAS",
-    "ppg": 1.7399999999999998
   },
   "Amari Williams": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 9.549764478764478,
+    "score": 9.910854700854701,
     "team": "BOS",
-    "ppg": 1.0
+    "ppg": 0.5
+  },
+  "Andre Jackson Jr.": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 9.804133859084779,
+    "team": "MIL",
+    "ppg": 1.4
+  },
+  "Javonte Cooke": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 9.634279317697228,
+    "team": "POR",
+    "ppg": 1.8
+  },
+  "Taelon Peter": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 9.555849056720023,
+    "team": "IND",
+    "ppg": 1.6
   },
   "Cody Martin": {
     "tier": "BENCH",
@@ -3429,20 +3457,6 @@
     "team": "IND",
     "ppg": 3.3
   },
-  "Caleb Martin": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 9.49457688246173,
-    "team": "DAL",
-    "ppg": 3.2800000000000002
-  },
-  "Luke Travers": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 9.42832177197802,
-    "team": "CLE",
-    "ppg": 2.3
-  },
   "Dario Saric": {
     "tier": "BENCH",
     "elo_impact": -5,
@@ -3450,19 +3464,33 @@
     "team": "SAC",
     "ppg": 1.7
   },
-  "Bronny James": {
+  "Caleb Martin": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 9.21299610570658,
-    "team": "LAL",
-    "ppg": 1.9
+    "score": 9.322183577323372,
+    "team": "DAL",
+    "ppg": 3.21
+  },
+  "Luke Travers": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 9.226310309534865,
+    "team": "CLE",
+    "ppg": 2.2
+  },
+  "Johni Broome": {
+    "tier": "BENCH",
+    "elo_impact": -5,
+    "score": 8.951377849792483,
+    "team": "PHI",
+    "ppg": 1.7
   },
   "Cody Williams": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 8.812402834560684,
+    "score": 8.943930626382219,
     "team": "UTA",
-    "ppg": 2.9899999999999998
+    "ppg": 2.92
   },
   "Dylan Cardwell": {
     "tier": "BENCH",
@@ -3471,12 +3499,12 @@
     "team": "SAC",
     "ppg": 1.7
   },
-  "Ariel Hukporti": {
+  "Rayan Rupert": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 8.64911312291004,
-    "team": "NYK",
-    "ppg": 0.8
+    "score": 8.777081370606792,
+    "team": "POR",
+    "ppg": 1.4
   },
   "Nolan Traore": {
     "tier": "BENCH",
@@ -3485,19 +3513,12 @@
     "team": "BKN",
     "ppg": 1.8
   },
-  "Andre Jackson Jr.": {
-    "tier": "BENCH",
-    "elo_impact": -5,
-    "score": 8.533896411645225,
-    "team": "MIL",
-    "ppg": 1.2
-  },
   "Nigel Hayes-Davis": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 7.774448832366503,
+    "score": 8.160632828367525,
     "team": "PHX",
-    "ppg": 1.3
+    "ppg": 1.5
   },
   "Drew Peterson": {
     "tier": "BENCH",
@@ -3513,11 +3534,11 @@
     "team": "SAC",
     "ppg": 2.0
   },
-  "Trey Jemison III": {
+  "Lachlan Olbrich": {
     "tier": "BENCH",
     "elo_impact": -5,
-    "score": 0.8694607843137255,
-    "team": "NYK",
-    "ppg": 0.0
+    "score": 4.743666666666667,
+    "team": "CHI",
+    "ppg": 0.4
   }
 }

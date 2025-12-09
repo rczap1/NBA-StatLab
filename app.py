@@ -276,7 +276,6 @@ class MenuContext(Enum):
     MAIN = "main"
     GAMES = "games"
     ANALYSIS = "analysis"
-    BETTING = "betting"
     SYSTEM = "system"
 
 
@@ -294,7 +293,7 @@ class MenuSystem:
         # Banner principal
         banner = Panel(
             "[bold cyan]🏀 NBA PREDICTION SYSTEM[/bold cyan]\n"
-            "[dim]Sistema Elo Avançado com Injury Impact & Value Betting[/dim]",
+            "[dim]Sistema Elo Avançado com Injury Impact[/dim]",
             box=box.DOUBLE,
             border_style="cyan"
         )
@@ -362,11 +361,6 @@ class MenuSystem:
             "Ver jogos, previsões e análises"
         )
         menu_table.add_row(
-            "[bold green]2[/bold green]",
-            "💰 [bold]Value Betting[/bold]",
-            "Scanner de apostas com value"
-        )
-        menu_table.add_row(
             "[bold yellow]3[/bold yellow]",
             "📊 [bold]Análise Avançada[/bold]",
             "Rankings, stats, tiers de jogadores"
@@ -391,12 +385,9 @@ class MenuSystem:
             self.breadcrumb = ["Menu Principal", "Jogos & Previsões"]
             return self.show_games_menu()
         elif choice == "2":
-            self.breadcrumb = ["Menu Principal", "Value Betting"]
-            return self.show_betting_menu()
-        elif choice == "3":
             self.breadcrumb = ["Menu Principal", "Análise Avançada"]
             return self.show_analysis_menu()
-        elif choice == "4":
+        elif choice == "3":
             self.breadcrumb = ["Menu Principal", "Sistema"]
             return self.show_system_menu()
         
@@ -492,6 +483,45 @@ class MenuSystem:
         
         Prompt.ask("\n[dim]Pressiona Enter para continuar[/dim]")
         return self.show_analysis_menu()
+    
+    def show_system_menu(self):
+        """Menu de Sistema"""
+        self.show_header()
+    
+        menu_table = Table(show_header=False, box=box.SIMPLE, padding=(0, 2))
+        menu_table.add_column(justify="center", width=10)
+        menu_table.add_column(justify="left", width=40)
+    
+        menu_table.add_row("[bold blue]1[/bold blue]", "🔄 Atualizar Histórico Elo")
+        menu_table.add_row("[bold blue]2[/bold blue]", "⭐ Atualizar Player Tiers")
+        menu_table.add_row("[bold blue]3[/bold blue]", "📋 Listar Todas as Equipas")
+        menu_table.add_row("[bold blue]4[/bold blue]", "🗑️  Limpar Cache")
+        menu_table.add_row("[bold blue]5[/bold blue]", "📊 Estatísticas do Sistema")
+    
+        console.print(Panel(menu_table, title="⚙️  Sistema", border_style="blue", box=box.ROUNDED))
+        console.print("\n[dim]Digite 'b' para voltar | 'q' para sair[/dim]")
+    
+        choice = Prompt.ask("\n[bold blue]➤[/bold blue]", choices=["1", "2", "3", "4", "5", "b", "q"])
+    
+        if choice == "q":
+            return self.confirm_exit()
+        elif choice == "b":
+            self.breadcrumb.pop() 
+            return True
+    
+        if choice == "1":
+            self.update_elo_interactive()
+        elif choice == "2":
+            self.update_tiers_interactive()
+        elif choice == "3":
+            listar_equipas()
+        elif choice == "4":
+            self.clear_cache()
+        elif choice == "5":
+            self.show_system_stats()
+    
+        Prompt.ask("\n[dim]Pressiona Enter para continuar[/dim]")
+        return self.show_system_menu()
     
     def show_main_menu(self):
         """Menu principal - 3 opções principais"""
@@ -742,11 +772,6 @@ class MenuSystem:
   • Rest (Back-to-backs, fadiga)
   • Injuries (baseado em tiers)
   • Home court advantage
-
-[bold]Value Betting:[/bold]
-  • Edge mínimo: 5%
-  • Kelly Criterion (25% conservador)
-  • Compara modelo vs odds de mercado
 
 [bold]Datas:[/bold]
   • Enter = hoje
